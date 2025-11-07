@@ -1,0 +1,515 @@
+[
+  {
+    "adjektiv": "dyr",
+    "group": "regelbunden",
+    "translation": "expensive",
+    "conjugations": {
+      "utrum": "dyr",
+      "neutrum": "dyrt",
+      "plural": "dyra",
+      "komparativ": "dyrare",
+      "superlativ": "dyrast"
+    },
+    "meningar": {
+      "utrum": "Ringen är dyr." ,
+      "neutrum": "Halsbandet är dyrt." ,
+      "plural": "Ringarna är dyra." ,
+      "komparativ": "Armbandet och halsbandet är dyrare än ringen." ,
+      "superlativ": "Halsbandet är dyrast av smyckena."
+    }
+  },
+  {
+    "adjektiv": "billig",
+    "group": "regelbunden",
+    "translation": "cheap",
+    "conjugations": {
+      "utrum": "billig",
+      "neutrum": "billigt",
+      "plural": "billiga",
+      "komparativ": "billigare",
+      "superlativ": "billigast"
+    },
+    "meningar": {
+      "utrum": "Jag har en billig telefon, jag behöver inget avancerat." ,
+      "neutrum": "Jag köpte ett billigt fikabröd idag som faktiskt var ganska gott." ,
+      "plural": "Vilka billiga bananer de har här!" ,
+      "komparativ": "Mjölk är billigare än kaffe." ,
+      "superlativ": "Bordet är billigast av de tre möblerna."
+    }
+  },
+  {
+    "adjektiv": "ung",
+    "group": "vokalväxling",
+    "translation": "young",
+    "conjugations": {
+      "utrum": "ung",
+      "neutrum": "ungt",
+      "plural": "unga",
+      "komparativ": "yngre",
+      "superlativ": "yngst"
+    },
+    "meningar": {
+      "utrum": "Kalle är ung, han är bara 15 år." ,
+      "neutrum": "Flickan var ett ungt barn." ,
+      "plural": "Vilka unga föräldrar du har!" ,
+      "komparativ": "Elin och Per är yngre än Kalle." ,
+      "superlativ": "Per är yngst av syskonen Boman."
+    }
+  },
+  {
+    "adjektiv": "stor",
+    "group": "vokalväxling",
+    "translation": "big",
+    "conjugations": {
+      "utrum": "stor",
+      "neutrum": "stort",
+      "plural": "stora",
+      "komparativ": "större",
+      "superlativ": "störst"
+    },
+    "meningar": {
+      "utrum": "Jag har en stor TV hemma." ,
+      "neutrum": "Kina är ett stort land." ,
+      "plural": "De här skorna är för stora, jag behöver ett par mindre." ,
+      "komparativ": "En elefant är större än en myra." ,
+      "superlativ": "Vilken stad är störst i Europa?"
+    }
+  },
+  {
+    "adjektiv": "gammal",
+    "group": "oregelbunden",
+    "translation": "old",
+    "conjugations": {
+      "utrum": "gammal",
+      "neutrum": "gammalt",
+      "plural": "gamla",
+      "komparativ": "äldre",
+      "superlativ": "äldst"
+    },
+    "meningar": {
+      "utrum": "Jag börjar känna mig gammal." ,
+      "neutrum": "Det här brödet är gammalt! Det smakar inte bra." ,
+      "plural": "Jag har två gamla jackor här från när mamma var ung." ,
+      "komparativ": "Eiffeltornet i Paris är äldre än Globen i Stockholm." ,
+      "superlativ": "Frida är äldst av syskonen Berg."
+    }
+  },
+  {
+    "adjektiv": "liten",
+    "group": "oregelbunden",
+    "translation": "small",
+    "conjugations": {
+      "utrum": "liten",
+      "neutrum": "litet",
+      "plural": "små",
+      "komparativ": "mindre",
+      "superlativ": "minst"
+    },
+    "meningar": {
+      "utrum": "Hunden är liten." ,
+      "neutrum": "Jag bor i ett litet hus." ,
+      "plural": "Katten och råttan är mindre än hunden." ,
+      "komparativ": "Är Danmark mindre än Sverige?" ,
+      "superlativ": "Råttan är minst av de tre djuren."
+    }
+  },
+  {
+    "adjektiv": "smal",
+    "group": "regelbunden",
+    "translation": "thin",
+    "conjugations": {
+      "utrum": "smal",
+      "neutrum": "smalt",
+      "plural": "smala",
+      "komparativ": "smalare",
+      "superlativ": "smalast"
+    },
+    "meningar": {
+      "utrum": "Pelle är smal och lång." ,
+      "neutrum": "Jag ritade ett smalt streck med eyelinern" ,
+      "plural": "Gamla stan i Stockholm har många smala gator." ,
+      "komparativ": "Jag var lite smalare när jag var ung, nu är jag några kilo tyngre." ,
+      "superlativ": "Vilken gata är smalast här i staden?"
+    }
+  },
+  {
+    "adjektiv": "tjock",
+    "group": "regelbunden",
+    "translation": "thick",
+    "conjugations": {
+      "utrum": "tjock",
+      "neutrum": "tjockt",
+      "plural": "tjocka",
+      "komparativ": "tjockare",
+      "superlativ": "tjockast"
+    },
+    "meningar": {
+      "utrum": "Min katt äter mycket, så han är ganska tjock." ,
+      "neutrum": "Jag bredde ett tjockt lager smör på mackan." ,
+      "plural": "Sjön var täckt av ett tjockt lager is." ,
+      "komparativ": "Jag måste köpa en tjockare jacka, det är alldeles för kallt nu." ,
+      "superlativ": "Vad är tjockast, en bok eller en tidning?"
+    }
+  },
+  {
+    "adjektiv": "bred",
+    "group": "regelbunden",
+    "translation": "broad",
+    "conjugations": {
+      "utrum": "bred",
+      "neutrum": "brett",
+      "plural": "breda",
+      "komparativ": "bredare",
+      "superlativ": "bredast"
+    },
+    "meningar": {
+      "utrum": "En aveny är en bred gata." ,
+      "neutrum": "Han bar ett par byxor och ett brett skärp runt midjan." ,
+      "plural": "Jag målade två breda linjer på pappret." ,
+      "komparativ": "Är Amiralsgatan bredare än Kaptensgatan?" ,
+      "superlativ": "Kaptensgatan är bredast av de tre gatorna."
+    }
+  },
+  {
+    "adjektiv": "rolig",
+    "group": "regelbunden",
+    "translation": "fun",
+    "conjugations": {
+      "utrum": "rolig",
+      "neutrum": "roligt",
+      "plural": "roliga",
+      "komparativ": "roligare",
+      "superlativ": "roligast"
+    },
+    "meningar": {
+      "utrum": "Amanda är jätterolig! Hon får alltid alla att skratta." ,
+      "neutrum": "Det där var inte ett roligt skämt. Måste du skoja så mycket?" ,
+      "plural": "Pappa berättade alltid roliga historier för oss när vi var små." ,
+      "komparativ": "Det är roligare att gå på bio än att titta på film hemma." ,
+      "superlativ": "Vilket ämne tyckte du var roligast i skolan?"
+    }
+  },
+  {
+    "adjektiv": "tråkig",
+    "group": "regelbunden",
+    "translation": "boring",
+    "conjugations": {
+      "utrum": "tråkig",
+      "neutrum": "tråkigt",
+      "plural": "tråkiga",
+      "komparativ": "tråkigare",
+      "superlativ": "tråkigast"
+    },
+    "meningar": {
+      "utrum": "tråkig" ,
+      "neutrum": "tråkigt" ,
+      "plural": "tråkiga" ,
+      "komparativ": "tråkigare" ,
+      "superlativ": "tråkigast"
+    }
+  },
+  {
+    "adjektiv": "varm",
+    "group": "regelbunden",
+    "translation": "warm",
+    "conjugations": {
+      "utrum": "varm",
+      "neutrum": "varmt",
+      "plural": "varma",
+      "komparativ": "varmare",
+      "superlativ": "varmast"
+    },
+    "meningar": {
+      "utrum": "Jag är väldigt varm. Kan vi öppna ett fönster?" ,
+      "neutrum": "Det var så varmt i rummet att jag började svettas." ,
+      "plural": "Jag skulle vilja köpa två varma tröjor, en gul och en blå." ,
+      "komparativ": "I Sverige brukar juni och juli vara varmare än april och maj." ,
+      "superlativ": "Vilken månad är varmast i ditt hemland?"
+    }
+  },
+  {
+    "adjektiv": "kall",
+    "group": "regelbunden",
+    "translation": "cold",
+    "conjugations": {
+      "utrum": "kall",
+      "neutrum": "kallt",
+      "plural": "kalla",
+      "komparativ": "kallare",
+      "superlativ": "kallast"
+    },
+    "meningar": {
+      "utrum": "Är du kall? Jag kan hämta en tröja åt dig." ,
+      "neutrum": "Vattnet är för kallt för att bada i så här års." ,
+      "plural": "Mina ben är så kalla att jag skakar." ,
+      "komparativ": "Det är kallare i Sverige än i Spanien." ,
+      "superlativ": "Det är kallast i fjällen."
+    }
+  },
+  {
+    "adjektiv": "enkel",
+    "group": "regelbunden",
+    "translation": "simple",
+    "conjugations": {
+      "utrum": "enkel",
+      "neutrum": "enkelt",
+      "plural": "enkla",
+      "komparativ": "enklare",
+      "superlativ": "enklast"
+    },
+    "meningar": {
+      "utrum": "Kan du sjunga en enkel sång för mig?" ,
+      "neutrum": "Jag kan inte ens lösa ett enkelt mattetal." ,
+      "plural": "Svara på de här enkla frågorna, tack." ,
+      "komparativ": "Är det enklare att laga lasagne än att laga spaghetti?" ,
+      "superlativ": "Det är enklast om du tar en taxi."
+    }
+  },
+  {
+    "adjektiv": "mogen",
+    "group": "regelbunden",
+    "translation": "mature, ripe",
+    "conjugations": {
+      "utrum": "mogen",
+      "neutrum": "moget",
+      "plural": "mogna",
+      "komparativ": "mognare",
+      "superlativ": "mognast"
+    },
+    "meningar": {
+      "utrum": "Han är väldigt mogen för sin ålder." ,
+      "neutrum": "Det här är inte ett moget äpple, det är ju hårt som en sten!" ,
+      "plural": "Är de här bananerna mogna?" ,
+      "komparativ": "Jag ska berätta för dig vad det här betyder när du är lite mognare." ,
+      "superlativ": "Man ska plocka bären när de är mognast."
+    }
+  },
+  {
+    "adjektiv": "vacker",
+    "group": "regelbunden",
+    "translation": "beautiful",
+    "conjugations": {
+      "utrum": "vacker",
+      "neutrum": "vackert",
+      "plural": "vackra",
+      "komparativ": "vackrare",
+      "superlativ": "vackrast"
+    },
+    "meningar": {
+      "utrum": "Vilken vacker tavla!" ,
+      "neutrum": "Pappa höll ett vackert tal på bröllopet." ,
+      "plural": "Jag plockade två vackra blommor." ,
+      "komparativ": "Jag tycker att min syster är vackrare än mig." ,
+      "superlativ": "Spegel, spegel på väggen där, säg mig vem som vackrast i landet är."
+    }
+  },
+  {
+    "adjektiv": "dum",
+    "group": "regelbunden",
+    "translation": "dumb",
+    "conjugations": {
+      "utrum": "dum",
+      "neutrum": "dumt",
+      "plural": "dumma",
+      "komparativ": "dummare",
+      "superlativ": "dummast"
+    },
+    "meningar": {
+      "utrum": "Jag känner mig så dum när jag inte förstår vad de andra säger." ,
+      "neutrum": "Han berättade ett dumt skämt." ,
+      "plural": "Vilka dumma pojkar! De borde du inte leka med." ,
+      "komparativ": "Jag blir dummare ju mer jag tittar på TV." ,
+      "superlativ": "Jag känner mig dummast i klassen just nu."
+    }
+  },
+  {
+    "adjektiv": "långsam",
+    "group": "regelbunden",
+    "translation": "slow",
+    "conjugations": {
+      "utrum": "långsam",
+      "neutrum": "långsamt",
+      "plural": "långsamma",
+      "komparativ": "långsammare",
+      "superlativ": "långsammast"
+    },
+    "meningar": {
+      "utrum": "Bilturen var mycket långsam eftersom vi stannade var femte minut för att pappa behövde gå på toa." ,
+      "neutrum": "Det var ett långsamt tåg." ,
+      "plural": "Jag hoppas de spelar några långsamma låtar på discot." ,
+      "komparativ": "Kan du köra långsammare?" ,
+      "superlativ": "Vilket djur är långsammast i världen?"
+    }
+  },
+  {
+    "adjektiv": "söt",
+    "group": "regelbunden",
+    "translation": "sweet, cute",
+    "conjugations": {
+      "utrum": "söt",
+      "neutrum": "sött",
+      "plural": "söta",
+      "komparativ": "sötare",
+      "superlativ": "sötast"
+    },
+    "meningar": {
+      "utrum": "Vilken söt kattunge!" ,
+      "neutrum": "Jag åt ett sött äpple." ,
+      "plural": "Jag har två söta katter hemma." ,
+      "komparativ": "Apelsiner är sötare än citroner." ,
+      "superlativ": "Vad är sötast – glass eller godis?"
+    }
+  },
+  {
+    "adjektiv": "sur",
+    "group": "regelbunden",
+    "translation": "sour, grumpy",
+    "conjugations": {
+      "utrum": "sur",
+      "neutrum": "surt",
+      "plural": "sura",
+      "komparativ": "surare",
+      "superlativ": "surast"
+    },
+    "meningar": {
+      "utrum": "Bli inte sur nu, bara för att du inte får följa med!" ,
+      "neutrum": "Äpplet var surt." ,
+      "plural": "Barnen blev sura för att de inte fick äta glass till middag." ,
+      "komparativ": "Citroner är surare än apelsiner." ,
+      "superlativ": "Vilken frukt är surast?"
+    }
+  },
+  {
+    "adjektiv": "trevlig",
+    "group": "regelbunden",
+    "translation": "nice",
+    "conjugations": {
+      "utrum": "trevlig",
+      "neutrum": "trevligt",
+      "plural": "trevliga",
+      "komparativ": "trevligare",
+      "superlativ": "trevligast"
+    },
+    "meningar": {
+      "utrum": "Jag var på en trevlig middag igår." ,
+      "neutrum": "Mannen hade ett trevligt sätt att prata." ,
+      "plural": "Vilka trevliga kompisar du har!" ,
+      "komparativ": "Jag tycker att Lasse är mycket trevligare än Emma." ,
+      "superlativ": "Lasse är trevligast av alla mina kollegor."
+    }
+  },
+  {
+    "adjektiv": "hög",
+    "group": "regelbunden",
+    "translation": "high",
+    "conjugations": {
+      "utrum": "hög",
+      "neutrum": "högt",
+      "plural": "höga",
+      "komparativ": "högre",
+      "superlativ": "högst"
+    },
+    "meningar": {
+      "utrum": "Eiffeltornet är en hög byggnad" ,
+      "neutrum": "Jag bor i ett högt bostadshus. Det har 20 våningar!" ,
+      "plural": "Jag har två höga bokhyllor i mitt rum." ,
+      "komparativ": "Kyrkan och vattentornet är högre än huset." ,
+      "superlativ": "Vattentornet är högst av de tre byggnaderna."
+    }
+  },
+  {
+    "adjektiv": "tung",
+    "group": "vokalväxling",
+    "translation": "heavy",
+    "conjugations": {
+      "utrum": "tung",
+      "neutrum": "tungt",
+      "plural": "tunga",
+      "komparativ": "tyngre",
+      "superlativ": "tyngst"
+    },
+    "meningar": {
+      "utrum": "Jag har en jättetung ryggsäck. Kan du hjälpa mig att bära den?" ,
+      "neutrum": "Jag hade ett för tungt handbagage med mig till flygplatsen." ,
+      "plural": "Jag fyllde två tunga kassar med mat från Ica." ,
+      "komparativ": "Kajsas ryggsäck är tyngre än hennes lilla handväska." ,
+      "superlativ": "Men Kajsas resväska är tyngst av alla hennes väskor."
+    }
+  },
+  {
+    "adjektiv": "låg",
+    "group": "vokalväxling",
+    "translation": "low",
+    "conjugations": {
+      "utrum": "låg",
+      "neutrum": "lågt",
+      "plural": "låga",
+      "komparativ": "lägre",
+      "superlativ": "lägst"
+    },
+    "meningar": {
+      "utrum": "Daniel talade alltid med en låg röst." ,
+      "neutrum": "Det här bordet är för lågt, eller så är det jag som är för lång!" ,
+      "plural": "Jag behöver två låga stolar." ,
+      "komparativ": "Mitt soffbord är lägre än mitt matbord." ,
+      "superlativ": "Min gamla soffa är lägst av alla mina möbler."
+    }
+  },
+  {
+    "adjektiv": "lång",
+    "group": "vokalväxling",
+    "translation": "tall",
+    "conjugations": {
+      "utrum": "lång",
+      "neutrum": "långt",
+      "plural": "långa",
+      "komparativ": "längre",
+      "superlativ": "längst"
+    },
+    "meningar": {
+      "utrum": "Hur lång är din pappa? Han är en och nittio!" ,
+      "neutrum": "Jag har långt hår, men min bror har kort hår." ,
+      "plural": "Jag behöver två långa snören." ,
+      "komparativ": "Är Nilen verkligen längre än Mississippi?" ,
+      "superlativ": "Vilken flod är längst i världen?"
+    }
+  },
+  {
+    "adjektiv": "bra",
+    "group": "oregelbunden",
+    "translation": "good",
+    "conjugations": {
+      "utrum": "bra",
+      "neutrum": "bra",
+      "plural": "bra",
+      "komparativ": "bättre",
+      "superlativ": "bäst"
+    },
+    "meningar": {
+      "utrum": "Interstellar är en bra film!" ,
+      "neutrum": "Jag har ett bra tips till dig." ,
+      "plural": "Jag har många bra vänner från klassen." ,
+      "komparativ": "Idag är vädret bättre än igår." ,
+      "superlativ": "Sommaren är bäst av alla årstider, tycker jag."
+    }
+  },
+  {
+    "adjektiv": "dålig",
+    "group": "oregelbunden",
+    "translation": "bad",
+    "conjugations": {
+      "utrum": "dålig",
+      "neutrum": "dåligt",
+      "plural": "dåliga",
+      "komparativ": "sämre",
+      "superlativ": "sämst"
+    },
+    "meningar": {
+      "utrum": "Det är en dålig idé att äta chips till middag varje dag." ,
+      "neutrum": "Jag kan ett dåligt skämt, vill du höra?" ,
+      "plural": "Det ligger flera dåliga äpplen i skålen. Jag borde nog slänga dem." ,
+      "komparativ": "Han är inte sämre än sina klasskamrater i fysik och kemi." ,
+      "superlativ": "Henrik är sämst i klassen på matte."
+    }
+  }
+]
