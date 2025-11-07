@@ -1,0 +1,2452 @@
+[
+  {
+    "verb": "arbeta",
+    "verb_group": "1",
+    "translation": "to work",
+    "conjugations": {
+      "imperativ": "arbeta",
+      "infinitiv": "arbeta",
+      "presens": "arbetar",
+      "preteritum": "arbetade",
+      "supinum": "arbetat"
+    },
+    "meningar": {
+      "imperativ": "Arbeta snabbare, annars hinner vi inte färdigt!",
+      "infinitiv": "Nästa år ska han arbeta heltid igen.",
+      "presens": "Han arbetar heltid nu.",
+      "preteritum": "Förra året arbetade han halvtid.",
+      "supinum": "Han har snart arbetat i 20 år."
+    }
+  },
+  {
+    "verb": "börja",
+    "verb_group": "1",
+    "translation": "to start",
+    "conjugations": {
+      "imperativ": "börja",
+      "infinitiv": "börja",
+      "presens": "börjar",
+      "preteritum": "började",
+      "supinum": "börjat"
+    },
+    "meningar": {
+      "imperativ": "Börja inte prata om det där igen, nu har jag hört tillräckligt!",
+      "infinitiv": "När ska vi börja studera tillsammans?",
+      "presens": "Jag börjar bli bra på svenska nu.",
+      "preteritum": "Jag började ta danslektioner för tre månader sedan.",
+      "supinum": "Har du börjat gilla fisk? Sedan när?"
+    }
+  },
+  {
+    "verb": "fråga",
+    "verb_group": "1",
+    "translation": "to ask",
+    "conjugations": {
+      "imperativ": "fråga",
+      "infinitiv": "fråga",
+      "presens": "frågar",
+      "preteritum": "frågade",
+      "supinum": "frågat"
+    },
+    "meningar": {
+      "imperativ": "Fråga läraren om den här uppgiften.",
+      "infinitiv": "Kan inte du fråga mamma om vi kan gå på festen på lördag?",
+      "presens": "Du frågar aldrig mig om vad jag vill!",
+      "preteritum": "Jag frågade läraren om så många saker igår.",
+      "supinum": "Jag har också frågat om många saker."
+    }
+  },
+  {
+    "verb": "hälsa",
+    "verb_group": "1",
+    "translation": "to greet, to visit",
+    "conjugations": {
+      "imperativ": "hälsa",
+      "infinitiv": "hälsa",
+      "presens": "hälsar",
+      "preteritum": "hälsade",
+      "supinum": "hälsat"
+    },
+    "meningar": {
+      "imperativ": "Hälsa på mormor nu!",
+      "infinitiv": "Får man hälsa på hunden?",
+      "presens": "Hur vet man vilken som är höger hand? Det är handen man hälsar med!",
+      "preteritum": "jag hälsade inte på min kollega igår på morgonen.",
+      "supinum": "Har ni hälsat förut?"
+    }
+  },
+  {
+    "verb": "hämta",
+    "verb_group": "1",
+    "translation": "to fetch, to pick up",
+    "conjugations": {
+      "imperativ": "hämta",
+      "infinitiv": "hämta",
+      "presens": "hämtar",
+      "preteritum": "hämtade",
+      "supinum": "hämtat"
+    },
+    "meningar": {
+      "imperativ": "Hämta bollen, Fido!",
+      "infinitiv": "Min man brukar hämta vår son på dagis, när han slutar tidigt från jobbet.",
+      "presens": "Vem av er hämtar er son på dagis?",
+      "preteritum": "Jag hämtade ett paket från posten idag.",
+      "supinum": "Har du hämtat posten från hallen?"
+    }
+  },
+  {
+    "verb": "duscha",
+    "verb_group": "1",
+    "translation": "to shower",
+    "conjugations": {
+      "imperativ": "duscha",
+      "infinitiv": "duscha",
+      "presens": "duschar",
+      "preteritum": "duschade",
+      "supinum": "duschat"
+    },
+    "meningar": {
+      "imperativ": "Duscha inte så länge, vi får slut på vatten!",
+      "infinitiv": "Jag brukar duscha varje dag på morgonen, men idag gjorde jag inte det.",
+      "presens": "Hur ofta duschar du?",
+      "preteritum": "Jag duschade inte idag, så jag luktar inte gott.",
+      "supinum": "Har du duschat idag? Du kanske borde göra det innan vi går ut."
+    }
+  },
+  {
+    "verb": "lyssna",
+    "verb_group": "1",
+    "translation": "to listen",
+    "conjugations": {
+      "imperativ": "lyssna",
+      "infinitiv": "lyssna",
+      "presens": "lyssnar",
+      "preteritum": "lyssnade",
+      "supinum": "lyssnat"
+    },
+    "meningar": {
+      "imperativ": "Lyssna på mig!",
+      "infinitiv": "Varför ska jag lyssna på dig?",
+      "presens": "Du lyssnar aldrig på mig.",
+      "preteritum": "Jag lyssnade på dig i flera timmar i går.",
+      "supinum": "Har du lyssnat på Taylor Swifts nya album?"
+    }
+  },
+  {
+    "verb": "laga",
+    "verb_group": "1",
+    "translation": "to fix, to mend; to cook",
+    "conjugations": {
+      "imperativ": "laga",
+      "infinitiv": "laga",
+      "presens": "lagar",
+      "preteritum": "lagade",
+      "supinum": "lagat"
+    },
+    "meningar": {
+      "imperativ": "Laga inte cykeln nu, vi hinner inte!",
+      "infinitiv": "Min mamma brukar laga pannkakor varje torsdag.",
+      "presens": "Lagar du aldrig mat hemma?",
+      "preteritum": "Igår lagade jag äntligen den där trasiga lampan hemma.",
+      "supinum": "Har du lagat mat? Får jag smaka?"
+    }
+  },
+  {
+    "verb": "prata",
+    "verb_group": "1",
+    "translation": "to talk",
+    "conjugations": {
+      "imperativ": "prata",
+      "infinitiv": "prata",
+      "presens": "pratar",
+      "preteritum": "pratade",
+      "supinum": "pratat"
+    },
+    "meningar": {
+      "imperativ": "Prata inte med mat i munnen!",
+      "infinitiv": "Kan jag få prata lite med dig?",
+      "presens": "Pratar du svenska med din familj?",
+      "preteritum": "Jag pratade aldrig med någon om att jag var rädd för vatten.",
+      "supinum": "Har du pratat med mamma om helgen?"
+    }
+  },
+  {
+    "verb": "studera",
+    "verb_group": "1",
+    "translation": "to study",
+    "conjugations": {
+      "imperativ": "studera",
+      "infinitiv": "studera",
+      "presens": "studerar",
+      "preteritum": "studerade",
+      "supinum": "studerat"
+    },
+    "meningar": {
+      "imperativ": "Studera inte för mycket ikväll, du kommer få ont i huvudet!",
+      "infinitiv": "Det är bra att studera på universitetet om man vill ha ett välbetalt jobb.",
+      "presens": "Vad studerar du för ämnen i skolan nu för tiden?",
+      "preteritum": "Vad studerade du i ditt hemland?",
+      "supinum": "Har du studerat några andra språk?"
+    }
+  },
+  {
+    "verb": "plugga",
+    "verb_group": "1",
+    "translation": "to study (slang)",
+    "conjugations": {
+      "imperativ": "plugga",
+      "infinitiv": "plugga",
+      "presens": "pluggar",
+      "preteritum": "pluggade",
+      "supinum": "pluggat"
+    },
+    "meningar": {
+      "imperativ": "Plugga imorgon istället!",
+      "infinitiv": "Kan vi inte plugga tillsammans?",
+      "presens": "Jag pluggar hela tiden för att klara tentan.",
+      "preteritum": "Nä, jag pluggade så länge igår, jag orkar inte.",
+      "supinum": "Har du inte pluggat tillräckligt?"
+    }
+  },
+  {
+    "verb": "spela",
+    "verb_group": "1",
+    "translation": "to play",
+    "conjugations": {
+      "imperativ": "spela",
+      "infinitiv": "spela",
+      "presens": "spelar",
+      "preteritum": "spelade",
+      "supinum": "spelat"
+    },
+    "meningar": {
+      "imperativ": "Spela högre, jag hör inte!",
+      "infinitiv": "Jag kan spela fiol.",
+      "presens": "Jag spelar alltid dum när mamma frågar om jag har ätit upp kakorna.",
+      "preteritum": "När jag var liten spelade jag fotboll också.",
+      "supinum": "Jag har alltid spelat något instrument."
+    }
+  },
+  {
+    "verb": "svara",
+    "verb_group": "1",
+    "translation": "to answer",
+    "conjugations": {
+      "imperativ": "svara",
+      "infinitiv": "svara",
+      "presens": "svarar",
+      "preteritum": "svarade",
+      "supinum": "svarat"
+    },
+    "meningar": {
+      "imperativ": "Svara mig nu!",
+      "infinitiv": "Varför vill du inte svara mig?",
+      "presens": "Han brukar inte svarar om du ringer på kvällen.",
+      "preteritum": "Jag ringde till honom i går kväll, men han svarade inte.",
+      "supinum": "Jag har redan svarat dig!"
+    }
+  },
+  {
+    "verb": "orka",
+    "verb_group": "1",
+    "translation": "to manage, to have the energy",
+    "conjugations": {
+      "imperativ": "orka",
+      "infinitiv": "orka",
+      "presens": "orkar",
+      "preteritum": "orkade",
+      "supinum": "orkat"
+    },
+    "meningar": {
+      "imperativ": "Men åh, orka!",
+      "infinitiv": "Du måste orka gå uppför trappan!",
+      "presens": "Jag orkar inte gå till skolan imorgon!",
+      "preteritum": "Jag orkade inte igår heller...",
+      "supinum": "Har du någonsin orkat göra dina läxor?"
+    }
+  },
+  {
+    "verb": "tacka",
+    "verb_group": "1",
+    "translation": "to thank",
+    "conjugations": {
+      "imperativ": "tacka",
+      "infinitiv": "tacka",
+      "presens": "tackar",
+      "preteritum": "tackade",
+      "supinum": "tackat"
+    },
+    "meningar": {
+      "imperativ": "Tacka mormor och morfar för presenten nu!",
+      "infinitiv": "Nej, oj, jag har glömt att tacka för den.",
+      "presens": "Hur tackar man för presenter i ditt hemland?",
+      "preteritum": "Tackade du för presenten igår?",
+      "supinum": "Har du tackat för presenten?"
+    }
+  },
+  {
+    "verb": "sluta",
+    "verb_group": "1",
+    "translation": "to stop, to end",
+    "conjugations": {
+      "imperativ": "sluta",
+      "infinitiv": "sluta",
+      "presens": "slutar",
+      "preteritum": "slutade",
+      "supinum": "slutat"
+    },
+    "meningar": {
+      "imperativ": "Sluta skrika!",
+      "infinitiv": "Jag ville sluta länge, men jag kunde inte.",
+      "presens": "Jag slutar på mitt jobb idag.",
+      "preteritum": "Jag slutade på mitt jobb idag.",
+      "supinum": "Har du slutat ta pianolektioner?"
+    }
+  },
+  {
+    "verb": "tala",
+    "verb_group": "1",
+    "translation": "to speak",
+    "conjugations": {
+      "imperativ": "tala",
+      "infinitiv": "tala",
+      "presens": "talar",
+      "preteritum": "talade",
+      "supinum": "talat"
+    },
+    "meningar": {
+      "imperativ": "Tala lite tystare tack, det här är ett bibliotek!",
+      "infinitiv": "Jag måste tala om något med dig.",
+      "presens": "Vilka språk talar du?",
+      "preteritum": "Talade du med rektorn igår om att fortsätta kursen i höst?",
+      "supinum": "Har du talat med henne om det här?"
+    }
+  },
+  {
+    "verb": "betala",
+    "verb_group": "1",
+    "translation": "to pay",
+    "conjugations": {
+      "imperativ": "betala",
+      "infinitiv": "betala",
+      "presens": "betalar",
+      "preteritum": "betalade",
+      "supinum": "betalat"
+    },
+    "meningar": {
+      "imperativ": "Betala med kontant i nästa kassa, tack!",
+      "infinitiv": "Kan inte du betala notan den här gången?",
+      "presens": "Jag betalar gärna för kvalitet!",
+      "preteritum": "Betalade du räkningarna förra månaden?",
+      "supinum": "Har du betalat för den här?"
+    }
+  },
+  {
+    "verb": "skicka",
+    "verb_group": "1",
+    "translation": "to send, to pass (sth)",
+    "conjugations": {
+      "imperativ": "skicka",
+      "infinitiv": "skicka",
+      "presens": "skickar",
+      "preteritum": "skickade",
+      "supinum": "skickat"
+    },
+    "meningar": {
+      "imperativ": "Skicka saltet, tack!",
+      "infinitiv": "Kan du skicka saltet?",
+      "presens": "Skickar du saltet till mig?",
+      "preteritum": "Jag skickade ett brev till mormor igår.",
+      "supinum": "Jag har skickat femton sms till honom redan."
+    }
+  },
+  {
+    "verb": "borsta",
+    "verb_group": "1",
+    "translation": "to brush",
+    "conjugations": {
+      "imperativ": "borsta",
+      "infinitiv": "borsta",
+      "presens": "borstar",
+      "preteritum": "borstade",
+      "supinum": "borstat"
+    },
+    "meningar": {
+      "imperativ": "Borsta håret, snälla, det ser ut som ett fågelbo!",
+      "infinitiv": "Jag brukar borsta tänderna två gånger om dagen.",
+      "presens": "Hur många gånger borstar du tänderna varje dag?",
+      "preteritum": "Jag borstade hunden i en timme igår, men han ser lika sliten ut ändå!",
+      "supinum": "Jag brukar borsta tänderna två gånger om dagen, men idag har jag bara borstat en gång."
+    }
+  },
+  {
+    "verb": "lämna",
+    "verb_group": "1",
+    "translation": "to leave, to hand in",
+    "conjugations": {
+      "imperativ": "lämna",
+      "infinitiv": "lämna",
+      "presens": "lämnar",
+      "preteritum": "lämnade",
+      "supinum": "lämnat"
+    },
+    "meningar": {
+      "imperativ": "Lämna mig inte ensam här!",
+      "infinitiv": "Jag måste lämna en bok på biblioteket idag.",
+      "presens": "Lämnar du barnen på förskolan idag? Jag har möte.",
+      "preteritum": "Lämnade du inte in provet till läraren? Gick det så dåligt?",
+      "supinum": "Någon har lämnat ett paket till dig utanför dörren."
+    }
+  },
+  {
+    "verb": "jobba",
+    "verb_group": "1",
+    "translation": "to work (colloquial)",
+    "conjugations": {
+      "imperativ": "jobba",
+      "infinitiv": "jobba",
+      "presens": "jobbar",
+      "preteritum": "jobbade",
+      "supinum": "jobbat"
+    },
+    "meningar": {
+      "imperativ": "Jobba på, vi har mycket att göra idag!",
+      "infinitiv": "Jag började jobba här för 3 år sedan.",
+      "presens": "Jobbar du över idag? Kommer du i alla fall hem till middagen?",
+      "preteritum": "Jag började jobba här i juni, och innan dess jobbade jag på ett företag i Uppsala.",
+      "supinum": "Har du jobbat på ditt CV idag?"
+    }
+  },
+  {
+    "verb": "bada",
+    "verb_group": "1",
+    "translation": "to bathe, to swim",
+    "conjugations": {
+      "imperativ": "bada",
+      "infinitiv": "bada",
+      "presens": "badar",
+      "preteritum": "badade",
+      "supinum": "badat"
+    },
+    "meningar": {
+      "imperativ": "Bada inte när du precis har ätit, då kan du få kramp!",
+      "infinitiv": "Vill du gå och bada? Det är ju så varmt idag!",
+      "presens": "Jag är rädd för vatten, så jag badar bara i poolen.",
+      "preteritum": "Förra året badade jag varje dag!",
+      "supinum": "Jag har inte badat en enda gång i år."
+    }
+  },
+  {
+    "verb": "stanna",
+    "verb_group": "1",
+    "translation": "to stop, to stay",
+    "conjugations": {
+      "imperativ": "stanna",
+      "infinitiv": "stanna",
+      "presens": "stannar",
+      "preteritum": "stannade",
+      "supinum": "stannat"
+    },
+    "meningar": {
+      "imperativ": "Stanna! Jag måste prata med dig!",
+      "infinitiv": "Hur länge tänkte du stanna på jobbet ikväll?",
+      "presens": "Jag stannar tills jag inte orkar mer.",
+      "preteritum": "Varför stannade inte bilen när det blev rött?",
+      "supinum": "Har klockan stannat? Den rör sig inte längre!"
+    }
+  },
+  {
+    "verb": "städa",
+    "verb_group": "1",
+    "translation": "to clean",
+    "conjugations": {
+      "imperativ": "städa",
+      "infinitiv": "städa",
+      "presens": "städar",
+      "preteritum": "städade",
+      "supinum": "städat"
+    },
+    "meningar": {
+      "imperativ": "Kan du städa upp det som du spillde i köket?",
+      "infinitiv": "Städa inte mitt rum idag, jag gör det själv när jag kommer hem.",
+      "presens": "Om jag städar köket får du tvätta!",
+      "preteritum": "Jag städade ju i helgen, måste jag göra det nu igen?",
+      "supinum": "Har du städat ditt rum än?"
+    }
+  },
+  {
+    "verb": "titta",
+    "verb_group": "1",
+    "translation": "to look, to watch",
+    "conjugations": {
+      "imperativ": "titta",
+      "infinitiv": "titta",
+      "presens": "tittar",
+      "preteritum": "tittade",
+      "supinum": "tittat"
+    },
+    "meningar": {
+      "imperativ": "Kom och titta på den här hunden!",
+      "infinitiv": "Kan vi titta på film tillsammans ikväll?",
+      "presens": "Tittar du alltid på TV på kvällarna?",
+      "preteritum": "Igår tittade jag så länge att jag fick ont i ögonen.",
+      "supinum": "Har du tittat in i den här butiken någon gång?"
+    }
+  },
+  {
+    "verb": "bädda",
+    "verb_group": "1",
+    "translation": "to make the bed",
+    "conjugations": {
+      "imperativ": "bädda",
+      "infinitiv": "bädda",
+      "presens": "bäddar",
+      "preteritum": "bäddade",
+      "supinum": "bäddat"
+    },
+    "meningar": {
+      "imperativ": "Bädda sängen, är du snäll!",
+      "infinitiv": "Jag tänker inte bädda min sons säng, han måste lära sig att göra det själv.",
+      "presens": "Jag bäddar sängen varje morgon.",
+      "preteritum": "Jag bäddade åt gästerna i morse.",
+      "supinum": "Har du bäddat sängen som jag bad dig om?"
+    }
+  },
+  {
+    "verb": "beställa",
+    "verb_group": "2a",
+    "translation": "to order",
+    "conjugations": {
+      "imperativ": "beställ",
+      "infinitiv": "beställa",
+      "presens": "beställer",
+      "preteritum": "beställde",
+      "supinum": "beställt"
+    },
+    "meningar": {
+      "imperativ": "Beställ inte så mycket kläder från nätet, det är bättre att prova i butik!",
+      "infinitiv": "Ska vi beställa pizza idag?",
+      "presens": "Nä, jag beställer aldrig pizza på vardagar.",
+      "preteritum": "Men du beställde ju thaimat igår?",
+      "supinum": "Det är inte sant, jag har aldrig beställt thaimat!"
+    }
+  },
+  {
+    "verb": "bestämma",
+    "verb_group": "2a",
+    "translation": "to decide",
+    "conjugations": {
+      "imperativ": "bestäm",
+      "infinitiv": "bestämma",
+      "presens": "bestämmer",
+      "preteritum": "bestämde",
+      "supinum": "bestämt"
+    },
+    "meningar": {
+      "imperativ": "Men bestäm dig nu! Vilken ska du ha?",
+      "infinitiv": "Nej, jag kan inte bestämma mig för vilken glass jag vill ha.",
+      "presens": "Om inte du bestämmer så bestämmer jag åt dig!",
+      "preteritum": "Bestämde du dig för att följa med oss till slut?",
+      "supinum": "Har du bestämt dig för vilken kurs du ska gå?"
+    }
+  },
+  {
+    "verb": "bygga",
+    "verb_group": "2a",
+    "translation": "to build",
+    "conjugations": {
+      "imperativ": "bygg",
+      "infinitiv": "bygga",
+      "presens": "bygger",
+      "preteritum": "byggde",
+      "supinum": "byggt"
+    },
+    "meningar": {
+      "imperativ": "Bygg inte sandslott där jag ligger och solar!",
+      "infinitiv": "Jag skulle vilja bygga ett fint, nytt hus, men det kostar nog för mycket pengar att bygga det.",
+      "presens": "Jag bygger på min relation med mamma just nu.",
+      "preteritum": "Vår konflikt byggde på ett stort missförstånd.",
+      "supinum": "De har byggt en bro mellan Sverige och Danmark."
+    }
+  },
+  {
+    "verb": "följa",
+    "verb_group": "2a",
+    "translation": "to follow",
+    "conjugations": {
+      "imperativ": "följ",
+      "infinitiv": "följa",
+      "presens": "följer",
+      "preteritum": "följde",
+      "supinum": "följt"
+    },
+    "meningar": {
+      "imperativ": "Följ mig på Instagram!",
+      "infinitiv": "Vill du följa mig till busshållplatsen?",
+      "presens": "Följer du med till stranden imorgon?",
+      "preteritum": "Följde du instruktionerna till uppgiften?",
+      "supinum": "Jag har följt den här influencern länge, hon har jättebra content!"
+    }
+  },
+  {
+    "verb": "glömma",
+    "verb_group": "2a",
+    "translation": "to forget",
+    "conjugations": {
+      "imperativ": "glöm",
+      "infinitiv": "glömma",
+      "presens": "glömmer",
+      "preteritum": "glömde",
+      "supinum": "glömt"
+    },
+    "meningar": {
+      "imperativ": "Glöm inte att borsta dina tänder varje kväll!",
+      "infinitiv": "Du får inte glömma bort att det är mormors födelsedag imorgon.",
+      "presens": "Jag glömmer aldrig första gången jag provade surströmming!",
+      "preteritum": "Igår glömde jag att äta middag.",
+      "supinum": "Jag lovar att jag inte ska glömt det flera gånger."
+    }
+  },
+  {
+    "verb": "hända",
+    "verb_group": "2a",
+    "translation": "to happen",
+    "conjugations": {
+      "imperativ": "händ",
+      "infinitiv": "hända",
+      "presens": "händer",
+      "preteritum": "hände",
+      "supinum": "hänt"
+    },
+    "meningar": {
+      "imperativ": null,
+      "infinitiv": "Det kan väl hända att jag har varit här förut!",
+      "presens": "Det händer ofta att du glömmer bort min födelsedag. Skriv upp det till nästa år!",
+      "preteritum": "Det hände förra året och det kommer väl att hända i år igen.",
+      "supinum": "Det har aldrig hänt att du glömt bort min brors födelsedag."
+    }
+  },
+  {
+    "verb": "hänga",
+    "verb_group": "2a",
+    "translation": "to hang, to spend time (colloquial)",
+    "conjugations": {
+      "imperativ": "häng",
+      "infinitiv": "hänga",
+      "presens": "hänger",
+      "preteritum": "hängde",
+      "supinum": "hängt"
+    },
+    "meningar": {
+      "imperativ": "Häng inte i taklampan, den kommer att ramla ner!",
+      "infinitiv": "När hon frågade om vi skulle hänga sa jag 'Men vi hänger ju varje dag, det är klart!'",
+      "presens": "Hänger du med när läraren pratar så här snabbt?",
+      "preteritum": "Jag hängde med min bästa kompis igår.",
+      "supinum": "Har du hängt upp tavlan på väggen ännu?"
+    }
+  },
+  {
+    "verb": "ringa",
+    "verb_group": "2a",
+    "translation": "to call, to ring",
+    "conjugations": {
+      "imperativ": "ring",
+      "infinitiv": "ringa",
+      "presens": "ringer",
+      "preteritum": "ringde",
+      "supinum": "ringt"
+    },
+    "meningar": {
+      "imperativ": "Ring inte senare än kl. 21 till mig på kvällen, då har jag gått och lagt mig!",
+      "infinitiv": "Du måste sluta att ringa utrikessamtal, det kostar för mycket.",
+      "presens": "Hur många samtal ringer du på din mobil varje månad?",
+      "preteritum": "Ringde du till mig igår?",
+      "supinum": "Jag har inte ringt till utlandet det här året."
+    }
+  },
+  {
+    "verb": "ställa",
+    "verb_group": "2a",
+    "translation": "to place, to put",
+    "conjugations": {
+      "imperativ": "ställ",
+      "infinitiv": "ställa",
+      "presens": "ställer",
+      "preteritum": "ställde",
+      "supinum": "ställt"
+    },
+    "meningar": {
+      "imperativ": "Ställ upp dörren så det kommer in luft!",
+      "infinitiv": "Kan du ställa stolen där borta mot väggen?",
+      "presens": "Ställer du lampan där borta?",
+      "preteritum": "Jag tyckte att han verkade konstig, så jag ställde mig så långt bort från honom som möjligt.",
+      "supinum": "Har du ställt in sakerna i skåpet?"
+    }
+  },
+  {
+    "verb": "stänga",
+    "verb_group": "2a",
+    "translation": "to close",
+    "conjugations": {
+      "imperativ": "stäng",
+      "infinitiv": "stänga",
+      "presens": "stänger",
+      "preteritum": "stängde",
+      "supinum": "stängt"
+    },
+    "meningar": {
+      "imperativ": "Stäng dörren sa jag!",
+      "infinitiv": "Den här lådan går inte att stänga!",
+      "presens": "Vilken tid stänger Coop?",
+      "preteritum": "Stängde du fönstret innan du gick hemifrån?",
+      "supinum": "Har du stängt fönstret? Det är fortfarande kallt här inne."
+    }
+  },
+  {
+    "verb": "slänga",
+    "verb_group": "2a",
+    "translation": "to throw, to throw away",
+    "conjugations": {
+      "imperativ": "släng",
+      "infinitiv": "slänga",
+      "presens": "slänger",
+      "preteritum": "slängde",
+      "supinum": "slängt"
+    },
+    "meningar": {
+      "imperativ": "Släng inte skräp på golvet!",
+      "infinitiv": "Du får inte slänga skräp på golvet!",
+      "presens": "Slänger du soporna på väg ut, är du snäll.",
+      "preteritum": "Du kunde ha frågat mig om jag ville ha kvar dem innan du slängde dem!",
+      "supinum": "Varför har du slängt mina gamla skor?"
+    }
+  },
+  {
+    "verb": "tända",
+    "verb_group": "2a",
+    "translation": "to light, to turn on",
+    "conjugations": {
+      "imperativ": "tänd",
+      "infinitiv": "tända",
+      "presens": "tänder",
+      "preteritum": "tände",
+      "supinum": "tänt"
+    },
+    "meningar": {
+      "imperativ": "Tänd aldrig ett stearinljus innan du går och lägger dig för att sova.",
+      "infinitiv": "Under julen kommer många att tända ljus.",
+      "presens": "Den fjärde advent tänder många fyra ljus.",
+      "preteritum": "Tände du i köket när du kom hem?",
+      "supinum": "Har du tänt granen?"
+    }
+  },
+  {
+    "verb": "hyra",
+    "verb_group": "2a",
+    "translation": "to rent",
+    "conjugations": {
+      "imperativ": "hyr",
+      "infinitiv": "hyra",
+      "presens": "hyr",
+      "preteritum": "hyrde",
+      "supinum": "hyrt"
+    },
+    "meningar": {
+      "imperativ": "Hyr inte bostad från de företaget, de är skumma!",
+      "infinitiv": "Att köpa lägenhet är dyrt, men det är inte billigt att hyra heller!",
+      "presens": "Hyr ni er lägenhet eller är det en bostadsrätt?",
+      "preteritum": "Min familj hyrde en bil i somras för att köra till Norge.",
+      "supinum": "Har du hyrt din cykel eller är det din egen?"
+    }
+  },
+  {
+    "verb": "höra",
+    "verb_group": "2a",
+    "translation": "to hear",
+    "conjugations": {
+      "imperativ": "hör",
+      "infinitiv": "höra",
+      "presens": "hör",
+      "preteritum": "hörde",
+      "supinum": "hört"
+    },
+    "meningar": {
+      "imperativ": "Hör på det här skämtet!",
+      "infinitiv": "Jag vill inte höra på sådana dumheter!",
+      "presens": "Man hör inte så bra när man blir gammal.",
+      "preteritum": "Hörde du vad som hände igår?",
+      "supinum": "Jag har inte hört något!"
+    }
+  },
+  {
+    "verb": "köra",
+    "verb_group": "2a",
+    "translation": "to drive",
+    "conjugations": {
+      "imperativ": "kör",
+      "infinitiv": "köra",
+      "presens": "kör",
+      "preteritum": "körde",
+      "supinum": "kört"
+    },
+    "meningar": {
+      "imperativ": "Men kör då, det är ju grönt ljus!",
+      "infinitiv": "Kan du köra bil?",
+      "presens": "Efter trafikolyckan kör jag alltid lugnt och försiktigt.",
+      "preteritum": "En gång körde jag för fort i trafiken och fick böta.",
+      "supinum": "Har du kört för fort någon gång? Det är klart, jag har kört bil i över 10 år."
+    }
+  },
+  {
+    "verb": "lära",
+    "verb_group": "2a",
+    "translation": "to learn, to teach",
+    "conjugations": {
+      "imperativ": "lär",
+      "infinitiv": "lära",
+      "presens": "lär",
+      "preteritum": "lärde",
+      "supinum": "lärt"
+    },
+    "meningar": {
+      "imperativ": "Lär mig, snälla!",
+      "infinitiv": "Jag vill gärna lära mig svenska. Kan du lära mig?",
+      "presens": "Jag har aldrig lärt mig hur man lär ut ett språk till någon, så jag vet inte om jag kan.",
+      "preteritum": "Lärde du dig att simma när du var liten?",
+      "supinum": "Jag har aldrig lärt mig ordentligt att laga mat, så det blir inte så gott när jag gör lunch."
+    }
+  },
+  {
+    "verb": "blåsa",
+    "verb_group": "2b",
+    "translation": "to blow",
+    "conjugations": {
+      "imperativ": "blås",
+      "infinitiv": "blåsa",
+      "presens": "blåser",
+      "preteritum": "blåste",
+      "supinum": "blåst"
+    },
+    "meningar": {
+      "imperativ": "Blås inte ut ljusen, det är så mysigt!",
+      "infinitiv": "Kan du blåsa på mitt knä? Jag ramlade och gjorde illa mig!",
+      "presens": "Det blåser väldigt mycket ute.",
+      "preteritum": "Igår blåste det nästan ingenting!",
+      "supinum": "Har du blåst mig på pengar?"
+    }
+  },
+  {
+    "verb": "byta",
+    "verb_group": "2b",
+    "translation": "to change, to exchange",
+    "conjugations": {
+      "imperativ": "byt",
+      "infinitiv": "byta",
+      "presens": "byter",
+      "preteritum": "bytte",
+      "supinum": "bytt"
+    },
+    "meningar": {
+      "imperativ": "Byt inte outfit, snälla, du är så snygg i den där!",
+      "infinitiv": "Vill du byta om till badkläder? Vi ska ut och bada!",
+      "presens": "Byter du ämne nu? Kan vi inte prata färdigt om det här?",
+      "preteritum": "Jag bytte telefonabonnemang förra året.",
+      "supinum": "Har du bytt telefonnummer? Jag kan inte nå dig!"
+    }
+  },
+  {
+    "verb": "köpa",
+    "verb_group": "2b",
+    "translation": "to buy",
+    "conjugations": {
+      "imperativ": "köp",
+      "infinitiv": "köpa",
+      "presens": "köper",
+      "preteritum": "köpte",
+      "supinum": "köpt"
+    },
+    "meningar": {
+      "imperativ": "Köp några äpplen i stället då.",
+      "infinitiv": "Kan du köpa ett kilo bananer åt mig?",
+      "presens": "Jag köper alltid kläder på rea.",
+      "preteritum": "Jag köpte ju många bananer till dig i går.",
+      "supinum": "Vi har aldrig köpt så mycket frukt som i år."
+    }
+  },
+  {
+    "verb": "leka",
+    "verb_group": "2b",
+    "translation": "to play",
+    "conjugations": {
+      "imperativ": "lek",
+      "infinitiv": "leka",
+      "presens": "leker",
+      "preteritum": "lekte",
+      "supinum": "lekt"
+    },
+    "meningar": {
+      "imperativ": "Lek lite snällare med varandra!",
+      "infinitiv": "Ska vi leka med hunden?",
+      "presens": "Leker ni kull?",
+      "preteritum": "Lekte du med dockor när du var liten?",
+      "supinum": "Nu har du väl lekt färdigt?"
+    }
+  },
+  {
+    "verb": "låsa",
+    "verb_group": "2b",
+    "translation": "to lock",
+    "conjugations": {
+      "imperativ": "lås",
+      "infinitiv": "låsa",
+      "presens": "låser",
+      "preteritum": "låste",
+      "supinum": "låst"
+    },
+    "meningar": {
+      "imperativ": "Lås dörren när du går, tack!",
+      "infinitiv": "Du får inte glömma att låsa dörren.",
+      "presens": "Jag låser dörren varje kväll.",
+      "preteritum": "Låste du när du gick hemifrån?",
+      "supinum": "Har du låst dörren?"
+    }
+  },
+  {
+    "verb": "läsa",
+    "verb_group": "2b",
+    "translation": "to read",
+    "conjugations": {
+      "imperativ": "läs",
+      "infinitiv": "läsa",
+      "presens": "läser",
+      "preteritum": "läste",
+      "supinum": "läst"
+    },
+    "meningar": {
+      "imperativ": "Var snäll och läs högt för mig!",
+      "infinitiv": "Kan du läsa upp vad du har skrivit?",
+      "presens": "Om jag läser en godnattsaga för dig, så somnar du snart.",
+      "preteritum": "Förra veckan läste jag flera sagor för dig!",
+      "supinum": "Har du läst Harry Potter? Den är jättebra!"
+    }
+  },
+  {
+    "verb": "lösa",
+    "verb_group": "2b",
+    "translation": "to solve, to dissolve",
+    "conjugations": {
+      "imperativ": "lös",
+      "infinitiv": "lösa",
+      "presens": "löser",
+      "preteritum": "löste",
+      "supinum": "löst"
+    },
+    "meningar": {
+      "imperativ": "Lös upp tabLetten i ett glas vatten.",
+      "infinitiv": "Nej, jag vet inte hur jag ska lösa det här problemet.",
+      "presens": "Löser du det här nu? Det är faktiskt inte mitt fel!",
+      "preteritum": "Jag har löste många liknande problem i mitt liv, men det här verkar inte gå att lösa!",
+      "supinum": "Har du inte löst det där problemet vi pratade om ännu?"
+    }
+  },
+  {
+    "verb": "möta",
+    "verb_group": "2b",
+    "translation": "to meet",
+    "conjugations": {
+      "imperativ": "möt",
+      "infinitiv": "möta",
+      "presens": "möter",
+      "preteritum": "mötte",
+      "supinum": "mött"
+    },
+    "meningar": {
+      "imperativ": "Möt mig framför skolan klockan ett!",
+      "infinitiv": "Kan du möta mig på Ica ikväll?",
+      "presens": "Hur ofta möter du dina gamla lärare?",
+      "preteritum": "Jag mötte min gamla lärare igår.",
+      "supinum": "Jag har inte mött henne på flera år."
+    }
+  },
+  {
+    "verb": "räcka",
+    "verb_group": "2b",
+    "translation": "to reach, to be enough",
+    "conjugations": {
+      "imperativ": "räck",
+      "infinitiv": "räcka",
+      "presens": "räcker",
+      "preteritum": "räckte",
+      "supinum": "räckt"
+    },
+    "meningar": {
+      "imperativ": "Räck mig havremjölken istället, är du snäll.",
+      "infinitiv": "Kan du räcka mig mjölken?",
+      "presens": "Räcker kakorna det till alla?",
+      "preteritum": "Mjölken räckte inte till alla!",
+      "supinum": "Hade det räckt om vi bara bakade ett bröd till frukost?"
+    }
+  },
+  {
+    "verb": "steka",
+    "verb_group": "2b",
+    "translation": "to fry, to roast",
+    "conjugations": {
+      "imperativ": "stek",
+      "infinitiv": "steka",
+      "presens": "steker",
+      "preteritum": "stekte",
+      "supinum": "stekt"
+    },
+    "meningar": {
+      "imperativ": "Stek biffen i 2 minuter på varje sida.",
+      "infinitiv": "Brukar du steka med olja eller smör?",
+      "presens": "Steker du ägg till mig? Vad snällt!",
+      "preteritum": "Jag stekte pannkakor till middag igår, men det blir alltid för många när jag steker.",
+      "supinum": "Jag har aldrig stekt med olja tidigare, men det blev ganska bra!"
+    }
+  },
+  {
+    "verb": "tycka",
+    "verb_group": "2b",
+    "translation": "to think (opinion), to like",
+    "conjugations": {
+      "imperativ": "tyck",
+      "infinitiv": "tycka",
+      "presens": "tycker",
+      "preteritum": "tyckte",
+      "supinum": "tyckt"
+    },
+    "meningar": {
+      "imperativ": "Tyck inte illa om mig bara för att jag inte kom ihåg din födelsedag!",
+      "infinitiv": "Man måste inte tycka att alla människor är snygga och trevliga.",
+      "presens": "Han tycker inte om mig.",
+      "preteritum": "Tyckte du verkligen att han är snygg?",
+      "supinum": "Jag har aldrig tyckt om att vakna tidigt."
+    }
+  },
+  {
+    "verb": "tänka",
+    "verb_group": "2b",
+    "translation": "to think, to plan",
+    "conjugations": {
+      "imperativ": "tänk",
+      "infinitiv": "tänka",
+      "presens": "tänker",
+      "preteritum": "tänkte",
+      "supinum": "tänkt"
+    },
+    "meningar": {
+      "imperativ": "Tänk inte på det där jobbiga, fokusera på det som är bra istället.",
+      "infinitiv": "Kan du tänka dig, jag tror jag mötte min sanna kärlek idag!",
+      "presens": "Tänker du komma på min fest ikväll?",
+      "preteritum": "Jag tänkte berätta om en fin upplevelse från i somras.",
+      "supinum": "Vad har du tänkt berätta för mig?"
+    }
+  },
+  {
+    "verb": "väcka",
+    "verb_group": "2b",
+    "translation": "to wake (someone) up",
+    "conjugations": {
+      "imperativ": "väck",
+      "infinitiv": "väcka",
+      "presens": "väcker",
+      "preteritum": "väckte",
+      "supinum": "väckt"
+    },
+    "meningar": {
+      "imperativ": "Men väck inte mig! Jag ska ha sovmorgon!",
+      "infinitiv": "Glöm inte att väcka barnen i tid imorgon.",
+      "presens": "Väcker du Kalle om han somnar under filmen?",
+      "preteritum": "Igår väckte du barnen för sent, så glöm inte att väcka dem i tid imorgon.",
+      "supinum": "Har du väckt din bror än?"
+    }
+  },
+  {
+    "verb": "växa",
+    "verb_group": "2b",
+    "translation": "to grow",
+    "conjugations": {
+      "imperativ": "väx",
+      "infinitiv": "växa",
+      "presens": "växer",
+      "preteritum": "växte",
+      "supinum": "växt"
+    },
+    "meningar": {
+      "imperativ": "Var inte så barnslig, väx upp!",
+      "infinitiv": "Min son slutar aldrig att växa, han bara växer och växer!",
+      "presens": "Blommor växer snabbare om man tittar på dem.",
+      "preteritum": "Jag växte upp i Uganda.",
+      "supinum": "Hur mycket har det här äppelträdet växt det senaste året?"
+    }
+  },
+  {
+    "verb": "hjälpa",
+    "verb_group": "2b",
+    "translation": "to help",
+    "conjugations": {
+      "imperativ": "hjälp",
+      "infinitiv": "hjälpa",
+      "presens": "hjälper",
+      "preteritum": "hjälpte",
+      "supinum": "hjälpt"
+    },
+    "meningar": {
+      "imperativ": "Hjälp, jag kan inte öppna dörren!",
+      "infinitiv": "Kan jag hjälpa dig med något?",
+      "presens": "Du verkar ha mycket att göra. Hjälper det om jag lagar mat ikväll?",
+      "preteritum": "Du hjälpte mig så bra förra året.",
+      "supinum": "Har du hjälpt grannen att laga cykeln igen?"
+    }
+  },
+  {
+    "verb": "klippa",
+    "verb_group": "2b",
+    "translation": "to cut (hair, paper, etc.)",
+    "conjugations": {
+      "imperativ": "klipp",
+      "infinitiv": "klippa",
+      "presens": "klipper",
+      "preteritum": "klippte",
+      "supinum": "klippt"
+    },
+    "meningar": {
+      "imperativ": "Du borde faktiskt klipp dig lite oftare.",
+      "infinitiv": "Jag kan inte klippa mig så ofta som jag vill, det kostar för mycket.",
+      "presens": "Min frisör klipper alltid en snygg frisyr.",
+      "preteritum": "Hur många bitar klippte du papperet i?",
+      "supinum": "Jag ser att du har varit hos frisören och klippt dig."
+    }
+  },
+  {
+    "verb": "sköta",
+    "verb_group": "2b",
+    "translation": "to take care of, to handle",
+    "conjugations": {
+      "imperativ": "sköt",
+      "infinitiv": "sköta",
+      "presens": "sköter",
+      "preteritum": "skötte",
+      "supinum": "skött"
+    },
+    "meningar": {
+      "imperativ": "Jag måste gå nu, sköt om dig!",
+      "infinitiv": "Jag måste sköta om min trädgård.",
+      "presens": "Om jag inte sköter om allt detta varje dag, så är det ingen annan som gör det.",
+      "preteritum": "Skötte min son sig under hans första skoldag?",
+      "supinum": "Jag har skött om min mamma ända sedan jag blev vuxen."
+    }
+  },
+  {
+    "verb": "röka",
+    "verb_group": "2b",
+    "translation": "to smoke, to cure (food)",
+    "conjugations": {
+      "imperativ": "rök",
+      "infinitiv": "röka",
+      "presens": "röker",
+      "preteritum": "rökte",
+      "supinum": "rökt"
+    },
+    "meningar": {
+      "imperativ": "Rök inte, det är inte bra!",
+      "infinitiv": "Det är faktiskt farligt att röka.",
+      "presens": "Jag röker lax till julbordet.",
+      "preteritum": "Rökte morfar när han var ung?",
+      "supinum": "Har du rökt laxen till julbordet än?"
+    }
+  },
+  {
+    "verb": "bo",
+    "verb_group": "3",
+    "translation": "to live",
+    "conjugations": {
+      "imperativ": "bo",
+      "infinitiv": "bo",
+      "presens": "bor",
+      "preteritum": "bodde",
+      "supinum": "bott"
+    },
+    "meningar": {
+      "imperativ": "Bo så här smutsigt då, om du inte orkar städa!",
+      "infinitiv": "Var bo du tidigare?",
+      "presens": "Jag bor i Uppsala sedan 3 år tillbaka.",
+      "preteritum": "Jag bodde några år i Grekland när jag var liten.",
+      "supinum": "Jag har också bott i Italien."
+    }
+  },
+  {
+    "verb": "tro",
+    "verb_group": "3",
+    "translation": "to believe",
+    "conjugations": {
+      "imperativ": "tro",
+      "infinitiv": "tro",
+      "presens": "tror",
+      "preteritum": "trodde",
+      "supinum": "trott"
+    },
+    "meningar": {
+      "imperativ": "Tro mig, jag vet vad jag pratar om!",
+      "infinitiv": "Man måste tro på något.",
+      "presens": "Tror du det blir regn i morgon?",
+      "preteritum": "Hon trodde att han skulle komma hem i går kväll, men han kom i morse.",
+      "supinum": "Jag har aldrig trott att det skulle bli så kallt här."
+    }
+  },
+  {
+    "verb": "bry",
+    "verb_group": "3",
+    "translation": "to care",
+    "conjugations": {
+      "imperativ": "bry",
+      "infinitiv": "bry",
+      "presens": "bryr",
+      "preteritum": "brydde",
+      "supinum": "brytt"
+    },
+    "meningar": {
+      "imperativ": "Bry dig inte om vad andra tycker.",
+      "infinitiv": "Varför ska jag bry mig om vad andra tycker?",
+      "presens": "Mamma bryr sig inte om jag diskar eller inte.",
+      "preteritum": "Jag kom sent hem, men mamma brydde sig inte.",
+      "supinum": "Har du någonsin brytt dig om sådana småsaker?"
+    }
+  },
+  {
+    "verb": "fly",
+    "verb_group": "3",
+    "translation": "to flee, to escape",
+    "conjugations": {
+      "imperativ": "fly",
+      "infinitiv": "fly",
+      "presens": "flyr",
+      "preteritum": "flydde",
+      "supinum": "flytt"
+    },
+    "meningar": {
+      "imperativ": "Fly! Mamma kommer!",
+      "infinitiv": "Om det var krig i mitt hemland skulle jag också vilja fly därifrån.",
+      "presens": "Jag flyr från mina tankar när jag spelar piano.",
+      "preteritum": "Han flydde från sitt hemland på grund av krig.",
+      "supinum": "Har du flytt från ditt hemland på grund av krig?"
+    }
+  },
+  {
+    "verb": "må",
+    "verb_group": "3",
+    "translation": "to feel (health)",
+    "conjugations": {
+      "imperativ": "må",
+      "infinitiv": "må",
+      "presens": "mår",
+      "preteritum": "mådde",
+      "supinum": "mått"
+    },
+    "meningar": {
+      "imperativ": "Må bättre snart! Ta hand om dig!",
+      "infinitiv": "Vad ska man göra för att må bättre när man är sjuk?",
+      "presens": "Tack jag mår bra.",
+      "preteritum": "Men i går mådde jag inte bra.",
+      "supinum": "Jag har aldrig mått så bra som idag."
+    }
+  },
+  {
+    "verb": "klä",
+    "verb_group": "3",
+    "translation": "to dress",
+    "conjugations": {
+      "imperativ": "klä",
+      "infinitiv": "klä",
+      "presens": "klär",
+      "preteritum": "klädde",
+      "supinum": "klätt"
+    },
+    "meningar": {
+      "imperativ": "Klä på dig nu, det är bråttom!",
+      "infinitiv": "Du måste skynda dig att klä på dig.",
+      "presens": "Jag klär på mig på 10 minuter på morgonen.",
+      "preteritum": "Han klädde sig i en snygg kavaj och ett par svarta finskor.",
+      "supinum": "Har du inte klätt på dig än?"
+    }
+  },
+  {
+    "verb": "sno",
+    "verb_group": "3",
+    "translation": "to snatch, to steal (slang)",
+    "conjugations": {
+      "imperativ": "sno",
+      "infinitiv": "sno",
+      "presens": "snor",
+      "preteritum": "snodde",
+      "supinum": "snott"
+    },
+    "meningar": {
+      "imperativ": "Sno inte andras saker, det är inte snällt!",
+      "infinitiv": "Man ska inte sno andras saker.",
+      "presens": "Sluta tjata, jag snor inte andras saker!",
+      "preteritum": "Han snodde runt när han hörde ljudet och stirrade på mig.",
+      "supinum": "Någon har snott min mobil!"
+    }
+  },
+  {
+    "verb": "ske",
+    "verb_group": "3",
+    "translation": "to happen (formal)",
+    "conjugations": {
+      "imperativ": "ske",
+      "infinitiv": "ske",
+      "presens": "sker",
+      "preteritum": "skedde",
+      "supinum": "skett"
+    },
+    "meningar": {
+      "imperativ": "Ingen vet vad som ske den natten.",
+      "infinitiv": "Vad har ske här?",
+      "presens": "Vad sker nu?",
+      "preteritum": "Ingen vet vad som skedde den natten.",
+      "supinum": "Vad har skett här?"
+    }
+  },
+  {
+    "verb": "bjuda",
+    "verb_group": "4a",
+    "translation": "to invite, to offer",
+    "conjugations": {
+      "imperativ": "bjud",
+      "infinitiv": "bjuda",
+      "presens": "bjuder",
+      "preteritum": "bjöd",
+      "supinum": "bjudit"
+    },
+    "meningar": {
+      "imperativ": "Bjud inte in mig om du inte vill ha mig på besök!",
+      "infinitiv": "Får jag bjuda dig på kaffe i dag?",
+      "presens": "Om jag bjuder dig på min fest, vill du komma då?",
+      "preteritum": "I lördags bjöd jag några vänner på middag.",
+      "supinum": "Peter har bjudit nära vänner på sitt 50-årskalas."
+    }
+  },
+  {
+    "verb": "ljuga",
+    "verb_group": "4a",
+    "translation": "to lie",
+    "conjugations": {
+      "imperativ": "ljug",
+      "infinitiv": "ljuga",
+      "presens": "ljuger",
+      "preteritum": "ljög",
+      "supinum": "ljugit"
+    },
+    "meningar": {
+      "imperativ": "Ljug inte för mig!",
+      "infinitiv": "Du vet att det är fult att ljuga.",
+      "presens": "Jag ljuger aldrig.",
+      "preteritum": "Ljög du inte igår när du sa att du är värLdsmästare i höjdhopp?",
+      "supinum": "Men du kanske har ljugit någon gång?"
+    }
+  },
+  {
+    "verb": "njuta",
+    "verb_group": "4a",
+    "translation": "to enjoy",
+    "conjugations": {
+      "imperativ": "njut",
+      "infinitiv": "njuta",
+      "presens": "njuter",
+      "preteritum": "njöt",
+      "supinum": "njutit"
+    },
+    "meningar": {
+      "imperativ": "Njut nu av er semester!",
+      "infinitiv": "Man kan njuta av en god måltid och man kan njuta av ett fint väder, en intressant tavla och av en vacker utsikt.",
+      "presens": "Varje dag njuter hon av vacker musik.",
+      "preteritum": "Han njöt av en god frukost i morse.",
+      "supinum": "Har du njutit ordentligt av din lediga dag?"
+    }
+  },
+  {
+    "verb": "sjunga",
+    "verb_group": "4a",
+    "translation": "to sing",
+    "conjugations": {
+      "imperativ": "sjung",
+      "infinitiv": "sjunga",
+      "presens": "sjunger",
+      "preteritum": "sjöng",
+      "supinum": "sjungit"
+    },
+    "meningar": {
+      "imperativ": "Sjung för mig då!",
+      "infinitiv": "Tycker du om att sjunga?",
+      "presens": "Hon sjunger alltid mycket vackert.",
+      "preteritum": "Hon sjöng i aulan i förrgår, applåderna tog aldrig slut.",
+      "supinum": "Jag har sjungit i kör sedan jag var 10 år."
+    }
+  },
+  {
+    "verb": "sjunka",
+    "verb_group": "4a",
+    "translation": "to sink, to drop (level)",
+    "conjugations": {
+      "imperativ": "sjunk",
+      "infinitiv": "sjunka",
+      "presens": "sjunker",
+      "preteritum": "sjönk",
+      "supinum": "sjunkit"
+    },
+    "meningar": {
+      "imperativ": "Åh nej, jag tappade min mobil i vattnet! sjunk inte, snälla!",
+      "infinitiv": "Jag kände mitt hjärta sjunka när jag hörde hans ord.",
+      "presens": "Jag hoppas inte den här båten sjunker också!",
+      "preteritum": "Titanic sjönk år 1912.",
+      "supinum": "Jag kan inte hitta båten, har den sjunkit eller?"
+    }
+  },
+  {
+    "verb": "skjuta",
+    "verb_group": "4a",
+    "translation": "to shoot",
+    "conjugations": {
+      "imperativ": "skjut",
+      "infinitiv": "skjuta",
+      "presens": "skjuter",
+      "preteritum": "sköt",
+      "supinum": "skjutit"
+    },
+    "meningar": {
+      "imperativ": "Skjut inte, jag är obeväpnad!",
+      "infinitiv": "På en skjutbana kan man träna att skjuta mot måltavlor.",
+      "presens": "När det är vår skjuter många vackra blommor upp ur jorden.",
+      "preteritum": "Man sköt upp rymdraketer för några år sedan.",
+      "supinum": "Har du skjutit upp mötet med rektorn? Det är bättre om vi har mötet senare."
+    }
+  },
+  {
+    "verb": "suga",
+    "verb_group": "4a",
+    "translation": "to suck",
+    "conjugations": {
+      "imperativ": "sug",
+      "infinitiv": "suga",
+      "presens": "suger",
+      "preteritum": "sög",
+      "supinum": "sugit"
+    },
+    "meningar": {
+      "imperativ": "Sug inte på tabletten, du ska svälja den hel!",
+      "infinitiv": "Måste jag suga på det här sugröret? Det är ju gjort av papper!",
+      "presens": "Den här filmen suger verkligen, den är så tråkig!",
+      "preteritum": "Hur var filmen igår? Den sög!",
+      "supinum": "Det hade sugit om det hade regnat igår under loppet."
+    }
+  },
+  {
+    "verb": "tjuta",
+    "verb_group": "4a",
+    "translation": "to wail",
+    "conjugations": {
+      "imperativ": "tjut",
+      "infinitiv": "tjuta",
+      "presens": "tjuter",
+      "preteritum": "tjöt",
+      "supinum": "tjutit"
+    },
+    "meningar": {
+      "imperativ": "Tjut inte så högt!",
+      "infinitiv": "Sluta tjuta, du ska få som du vill!",
+      "presens": "Barnet tjuter som en siren.",
+      "preteritum": "Kvinnan tjöt av skratt när hon såg vad som hade hänt.",
+      "supinum": "Har du tjutit färdigt nu?"
+    }
+  },
+  {
+    "verb": "hugga",
+    "verb_group": "4a",
+    "translation": "to chop",
+    "conjugations": {
+      "imperativ": "hugg",
+      "infinitiv": "hugga",
+      "presens": "hugger",
+      "preteritum": "högg",
+      "supinum": "huggit"
+    },
+    "meningar": {
+      "imperativ": "Hugg med mera kraft så går det lättare. Titta, håll yxan så här!",
+      "infinitiv": "Det var farligt för man kunde hugga sig i benet, eller i handen.",
+      "presens": "När träden i skogen blir över 80 år hugger man ner dem.",
+      "preteritum": "Hunden högg efter min hand, det var jätteläskigt!",
+      "supinum": "Har du huggit färdigt veden ännu?"
+    }
+  },
+  {
+    "verb": "dra",
+    "verb_group": "4a",
+    "translation": "to drag, pull",
+    "conjugations": {
+      "imperativ": "dra",
+      "infinitiv": "dra",
+      "presens": "drar",
+      "preteritum": "drog",
+      "supinum": "dragit"
+    },
+    "meningar": {
+      "imperativ": "Aj, dra inte så hårt!",
+      "infinitiv": "Han måste åka till tandläkaren och dra ut tanden. Företaget tänker dra ner på personal för at spara pengar. Alla måste dra sitt strå till stacken",
+      "presens": "Jag drar hem nu, vi ses imorgon!",
+      "preteritum": "Jag drog till Spanien direkt efter att jag hade tagit examen.",
+      "supinum": "Han har haft tandvärk länge, så han borde ha dragit ut tanden för länge sedan."
+    }
+  },
+  {
+    "verb": "fara",
+    "verb_group": "4a",
+    "translation": "to go (dialectal or old)",
+    "conjugations": {
+      "imperativ": "far",
+      "infinitiv": "fara",
+      "presens": "far",
+      "preteritum": "for",
+      "supinum": "farit"
+    },
+    "meningar": {
+      "imperativ": "Far inte, snälla, jag vill att du ska stanna!",
+      "infinitiv": "Varför måste man fara utomlands på vintern när det är så härligt i Sverige då?",
+      "presens": "Far du nu? Ja, jag går nu!",
+      "preteritum": "Han ledsnade på vintern i Sverige och for till ett varmare land.",
+      "supinum": "Var är far? Han har farit till jobbet."
+    }
+  },
+  {
+    "verb": "ta",
+    "verb_group": "4a",
+    "translation": "to take",
+    "conjugations": {
+      "imperativ": "ta",
+      "infinitiv": "ta",
+      "presens": "tar",
+      "preteritum": "tog",
+      "supinum": "tagit"
+    },
+    "meningar": {
+      "imperativ": "Ta hand om dig! Och ta det lugnt, det ordnar sig!",
+      "infinitiv": "Han planerar att ta igen sig efter den hårda fysiska ansträngningen.",
+      "presens": "Tar du emot gästerna ikväll?",
+      "preteritum": "Om det inte var du som snodde min penna, vem var det då som tog den?",
+      "supinum": "Vem har tagit min penna som låg på bordet?"
+    }
+  },
+  {
+    "verb": "bli",
+    "verb_group": "4a",
+    "translation": "to become",
+    "conjugations": {
+      "imperativ": "bli",
+      "infinitiv": "bli",
+      "presens": "blir",
+      "preteritum": "blev",
+      "supinum": "blivit"
+    },
+    "meningar": {
+      "imperativ": "Bli inte ledsen, jag menade inget illa med det jag sa!",
+      "infinitiv": "Jag tror att det kommer att bli en mycket fin sommar i år.",
+      "presens": "Blir du glad om jag köper en glass till dig på väg hem?",
+      "preteritum": "På hemvägen började det regna och vi blev ordentligt blöta.",
+      "supinum": "Det har blivit mycket populärt med konditionsträning."
+    }
+  },
+  {
+    "verb": "skina",
+    "verb_group": "4a",
+    "translation": "to shine",
+    "conjugations": {
+      "imperativ": "skin",
+      "infinitiv": "skina",
+      "presens": "skiner",
+      "preteritum": "sken",
+      "supinum": "skinit"
+    },
+    "meningar": {
+      "imperativ": "Skin som en sol varje dag, så blir du lyckligare!",
+      "infinitiv": "På vintern i Sverige ser man knappt solen skina.",
+      "presens": "Solen skiner från en molnfri himmel, det är lugnt och fridfullt.",
+      "preteritum": "Peter sken upp som en sol, när han fick se sin flickvän.",
+      "supinum": "Har solen skinit överhuvudtaget idag?"
+    }
+  },
+  {
+    "verb": "skrika",
+    "verb_group": "4a",
+    "translation": "to scream",
+    "conjugations": {
+      "imperativ": "skrik",
+      "infinitiv": "skrika",
+      "presens": "skriker",
+      "preteritum": "skrek",
+      "supinum": "skrikit"
+    },
+    "meningar": {
+      "imperativ": "Skrik inte, jag hör dig klart och tydligt om du talar i normal ton.",
+      "infinitiv": "Varför måste du skrika till mig, jag hör mycket bra vad du säger.",
+      "presens": "Jag skriker till varje gång jag ser en spindel.",
+      "preteritum": "Den lilla flickan skrek halva natten av smärta, för hon hade ont i magen.",
+      "supinum": "Varför är du så hes? Har du skrikit mycket idag?"
+    }
+  },
+  {
+    "verb": "skriva",
+    "verb_group": "4a",
+    "translation": "to write",
+    "conjugations": {
+      "imperativ": "skriv",
+      "infinitiv": "skriva",
+      "presens": "skriver",
+      "preteritum": "skrev",
+      "supinum": "skrivit"
+    },
+    "meningar": {
+      "imperativ": "Skriv till mig när du är utomlands!",
+      "infinitiv": "Varför tycker du inte om att skriva för hand?",
+      "presens": "Han är vänsterhänt, så han skriver med vänster hand.",
+      "preteritum": "Anna skrev ett brev till sin mor förra veckan.",
+      "supinum": "Hon har skrivit en lång lista på saker hon önskar sig till jul."
+    }
+  },
+  {
+    "verb": "stiga",
+    "verb_group": "4a",
+    "translation": "to walk, step, tread",
+    "conjugations": {
+      "imperativ": "stig",
+      "infinitiv": "stiga",
+      "presens": "stiger",
+      "preteritum": "steg",
+      "supinum": "stigit"
+    },
+    "meningar": {
+      "imperativ": "Stig inte av bussen förrän du vet att det är ditt stopp.",
+      "infinitiv": "När brukar du stiga upp på morgonen?",
+      "presens": "Det beror på situationen, ibland stiger jag upp tidigt, ibland stiger jag upp sent.",
+      "preteritum": "I går steg jag inte upp alls, eftersom jag var sjuk.",
+      "supinum": "Hallå? Har du stigit av tåget än?"
+    }
+  },
+  {
+    "verb": "svika",
+    "verb_group": "4a",
+    "translation": "to let down",
+    "conjugations": {
+      "imperativ": "svik",
+      "infinitiv": "svika",
+      "presens": "sviker",
+      "preteritum": "svek",
+      "supinum": "svikit"
+    },
+    "meningar": {
+      "imperativ": "Svik mig inte igen!",
+      "infinitiv": "Jag är så rädd för att min pojkvän ska svika mig.",
+      "presens": "Vad ska man göra om en kompis sviker en?",
+      "preteritum": "Hon svek mig när hon gick på konserten utan mig.",
+      "supinum": "Du har svikit mig!"
+    }
+  },
+  {
+    "verb": "vrida",
+    "verb_group": "4a",
+    "translation": "to twist",
+    "conjugations": {
+      "imperativ": "vrid",
+      "infinitiv": "vrida",
+      "presens": "vrider",
+      "preteritum": "vred",
+      "supinum": "vridit"
+    },
+    "meningar": {
+      "imperativ": "Vrid på låset så öppnar sig dörren.",
+      "infinitiv": "Sluta vrida och vända på dig, jag försöker sova här!",
+      "presens": "Barnet vrider sig av skratt när jag gör fula miner.",
+      "preteritum": "Efter att han hade torkat upp vattnet vred han ur trasan.",
+      "supinum": "Har du vridit nyckeln åt fel håll? Dörren går inte att öppna."
+    }
+  },
+  {
+    "verb": "riva",
+    "verb_group": "4a",
+    "translation": "to scratch",
+    "conjugations": {
+      "imperativ": "riv",
+      "infinitiv": "riva",
+      "presens": "river",
+      "preteritum": "rev",
+      "supinum": "rivit"
+    },
+    "meningar": {
+      "imperativ": "Riv inte sönder provet, så dåligt gick det väl inte?",
+      "infinitiv": "Kan du riva ut en sida ur ditt anteckningsblock åt mig?",
+      "presens": "Min katt river mig när jag klappar henne.",
+      "preteritum": "Ja, jag rev mig själv i sömnen!",
+      "supinum": "Har du rivit dig på armen?"
+    }
+  },
+  {
+    "verb": "bita",
+    "verb_group": "4a",
+    "translation": "to bite",
+    "conjugations": {
+      "imperativ": "bit",
+      "infinitiv": "bita",
+      "presens": "biter",
+      "preteritum": "bet",
+      "supinum": "bitit"
+    },
+    "meningar": {
+      "imperativ": "Bit inte så hårt, då kan du skada dina tänder.",
+      "infinitiv": "Han kan försvara sig, han kan bita i från sig.",
+      "presens": "Min hund är mycket snäll, den biter inte folk.",
+      "preteritum": "Förra veckan bet en arg hund mig i benet, men min hund är mycket snäll, den biter inte folk.",
+      "supinum": "Har du bitit dig i tungan någon gång?"
+    }
+  },
+  {
+    "verb": "gripa",
+    "verb_group": "4a",
+    "translation": "to grip",
+    "conjugations": {
+      "imperativ": "grip",
+      "infinitiv": "gripa",
+      "presens": "griper",
+      "preteritum": "grep",
+      "supinum": "gripit"
+    },
+    "meningar": {
+      "imperativ": "Grip tag i mig om du inte kan hålla balansen.",
+      "infinitiv": "Du bör gripa chansen och tacka ja till jobbet.",
+      "presens": "Nu vill jag att du griper tag i mig så att vi inte ramlar av cykeln.",
+      "preteritum": "Läste du i tidningen att polisen grep tjuvarna i lördags?",
+      "supinum": "Jag tror inte polisen har gripit tjuvarna än."
+    }
+  },
+  {
+    "verb": "driva",
+    "verb_group": "4a",
+    "translation": "to drift, to operate, to joke",
+    "conjugations": {
+      "imperativ": "driv",
+      "infinitiv": "driva",
+      "presens": "driver",
+      "preteritum": "drev",
+      "supinum": "drivit"
+    },
+    "meningar": {
+      "imperativ": "Driv inte med mig, det här är allvar!",
+      "infinitiv": "Vill du fortsätta att driva omkring på stan eller kan vi göra något vettigt?",
+      "presens": "De driver ett företag som säljer mobiltelefoner nu.",
+      "preteritum": "Båten låg och drev för vinden, den drev planlöst omkring på havet.",
+      "supinum": "De har drivit företaget i 10 år nu."
+    }
+  },
+  {
+    "verb": "dricka",
+    "verb_group": "4b",
+    "translation": "to drink",
+    "conjugations": {
+      "imperativ": "drick",
+      "infinitiv": "dricka",
+      "presens": "dricker",
+      "preteritum": "drack",
+      "supinum": "druckit"
+    },
+    "meningar": {
+      "imperativ": "Drick mycket vatten när du är sjuk!",
+      "infinitiv": "Jag gillar att dricka vatten med citron.",
+      "presens": "Jag dricker inte kaffe, men te går bra.",
+      "preteritum": "Hur många glas vatten drack du igår?",
+      "supinum": "Din tunga är blå, vad har du druckit?"
+    }
+  },
+  {
+    "verb": "hinna",
+    "verb_group": "4b",
+    "translation": "to have time, to make it in time",
+    "conjugations": {
+      "imperativ": "hinn",
+      "infinitiv": "hinna",
+      "presens": "hinner",
+      "preteritum": "hann",
+      "supinum": "hunnit"
+    },
+    "meningar": {
+      "imperativ": "null",
+      "infinitiv": "Hur ska du hinna lära dig svenska på två månader?",
+      "presens": "Om vi springer hinner vi med bussen.",
+      "preteritum": "Jag hann med tåget i morse, det gick kl. 6.00.",
+      "supinum": "Har du hunnit titta på läxan som läraren gav oss?"
+    }
+  },
+  {
+    "verb": "sitta",
+    "verb_group": "4b",
+    "translation": "to sit",
+    "conjugations": {
+      "imperativ": "sitt",
+      "infinitiv": "sitta",
+      "presens": "sitter",
+      "preteritum": "satt",
+      "supinum": "suttit"
+    },
+    "meningar": {
+      "imperativ": "Var snäll sitt ner på stolen!",
+      "infinitiv": "Kan du sitta still nu?",
+      "presens": "Jag sitter i soffan och har det skönt.",
+      "preteritum": "I går satt jag inte still en minut.",
+      "supinum": "Kan vi inte promenera? Jag har suttit hela dagen."
+    }
+  },
+  {
+    "verb": "slippa",
+    "verb_group": "4b",
+    "translation": "to be excused from doing sth",
+    "conjugations": {
+      "imperativ": "slipp",
+      "infinitiv": "slippa",
+      "presens": "slipper",
+      "preteritum": "slapp",
+      "supinum": "sluppit"
+    },
+    "meningar": {
+      "imperativ": "Måste jag diska? Okej, slipp då!",
+      "infinitiv": "Kan inte jag få slippa diska idag?",
+      "presens": "Nej, du slipper inte undan!",
+      "preteritum": "Min syster slapp ju göra det igår!",
+      "supinum": "Har jag någonsin sluppit göra hushållsarbete?"
+    }
+  },
+  {
+    "verb": "brinna",
+    "verb_group": "4b",
+    "translation": "to burn",
+    "conjugations": {
+      "imperativ": "brinn",
+      "infinitiv": "brinna",
+      "presens": "brinner",
+      "preteritum": "brann",
+      "supinum": "brunnit"
+    },
+    "meningar": {
+      "imperativ": "Brinn hjärtat, brinn!",
+      "infinitiv": "Elden kommer fortsätta brinna i flera timmar.",
+      "presens": "Fortfarande brinner det i Australien på grund av torkan.",
+      "preteritum": "Förra veckan brann ett hus ner till grunden.",
+      "supinum": "Det har aldrig brunnit här förut."
+    }
+  },
+  {
+    "verb": "springa",
+    "verb_group": "4b",
+    "translation": "to run",
+    "conjugations": {
+      "imperativ": "spring",
+      "infinitiv": "springa",
+      "presens": "springer",
+      "preteritum": "sprang",
+      "supinum": "sprungit"
+    },
+    "meningar": {
+      "imperativ": "Spring allt du orkar, det är bråttom!",
+      "infinitiv": "Han var tvungen att springa till bussen.",
+      "presens": "Han har bra kondition, han springer 3 km varje kväll.",
+      "preteritum": "Han sprang allt han orkade för att hinna med bussen.",
+      "supinum": "Har du sprungit ett lopp någon gång."
+    }
+  },
+  {
+    "verb": "brista",
+    "verb_group": "4b",
+    "translation": "to burst",
+    "conjugations": {
+      "imperativ": "brist",
+      "infinitiv": "brista",
+      "presens": "brister",
+      "preteritum": "brast",
+      "supinum": "brustit"
+    },
+    "meningar": {
+      "infinitiv": "Åk inte skridskor på isen, den är så tunn, den kan brista.",
+      "presens": "Mitt hjärta brister när jag ser små herrelösa hundar!",
+      "preteritum": "Grenen som han stod på brast plötsligt och han ramlade till marken.",
+      "supinum": "Har ditt hjärta brustit på grund av olycklig kärlek någon gång?"
+    }
+  },
+  {
+    "verb": "vinna",
+    "verb_group": "4b",
+    "translation": "to win",
+    "conjugations": {
+      "imperativ": "vinn",
+      "infinitiv": "vinna",
+      "presens": "vinner",
+      "preteritum": "vann",
+      "supinum": "vunnit"
+    },
+    "meningar": {
+      "imperativ": "Vinn inte, jag Vill Vinna för en gångs skull!",
+      "infinitiv": "Jag har aldrig vunnit på Lotto någon gång, men jag vill så gärna vinna",
+      "presens": "AIK vinner ofta hemmamatcher.",
+      "preteritum": "AIK vann med 3-1 över IFK.",
+      "supinum": "Jag har aldrig vunnit på lotto någon gång, men jag vill så gärna vinna"
+    }
+  },
+  {
+    "verb": "bryta",
+    "verb_group": "4b",
+    "translation": "to break",
+    "conjugations": {
+      "imperativ": "bryt",
+      "infinitiv": "bryta",
+      "presens": "bryter",
+      "preteritum": "bröt",
+      "supinum": "brutit"
+    },
+    "meningar": {
+      "imperativ": "Bryt inte ditt löfte nu.",
+      "infinitiv": "Enligt Allemansrätten får man inte bryta grenar från träden i skogen.",
+      "presens": "Bryter du ihop om jag berättar en dålig nyhet för dig nu?",
+      "preteritum": "Han lovade att hjälpa henne, men han bröt sitt löfte.",
+      "supinum": "De har redan brutit kontraktet."
+    }
+  },
+  {
+    "verb": "flyga",
+    "verb_group": "4b",
+    "translation": "to fly",
+    "conjugations": {
+      "imperativ": "flyg",
+      "infinitiv": "flyga",
+      "presens": "flyger",
+      "preteritum": "flög",
+      "supinum": "flugit"
+    },
+    "meningar": {
+      "imperativ": "Flyg, fula fluga! Och den fula flugan flög.",
+      "infinitiv": "Brukar du flyga eller åka tåg när du åker utomlands?",
+      "presens": "Titta på måsarna som flyger där borta!",
+      "preteritum": "Jag flög via Frankfurt senast jag åkte utomlands.",
+      "supinum": "Har du flugit med SAS någon gång? Hur var din upplevelse med det flygbolaget?"
+    }
+  },
+  {
+    "verb": "frysa",
+    "verb_group": "4b",
+    "translation": "to freeze, be cold",
+    "conjugations": {
+      "imperativ": "frys",
+      "infinitiv": "frysa",
+      "presens": "fryser",
+      "preteritum": "frös",
+      "supinum": "frusit"
+    },
+    "meningar": {
+      "imperativ": "Frys inte ihjäl nu när du ska åka till Kiruna!",
+      "infinitiv": "Jag hatar att frysa, så jag klär alltid på mig extra kläder.",
+      "presens": "Om du fryser kan du få låna min jacka.",
+      "preteritum": "Min cykel frös fast i marken i vintras.",
+      "supinum": "Har sjön redan frusit? Det är ju bara november!"
+    }
+  },
+  {
+    "verb": "knyta",
+    "verb_group": "4b",
+    "translation": "to tie",
+    "conjugations": {
+      "imperativ": "knyt",
+      "infinitiv": "knyta",
+      "presens": "knyter",
+      "preteritum": "knöt",
+      "supinum": "knutit"
+    },
+    "meningar": {
+      "imperativ": "Knyt inte så hårt nästa gång, jag kan inte få upp knuten!",
+      "infinitiv": "Lilla Anna hade svårt för att knyta sina skosnören.",
+      "presens": "Vet du hur man knyter en slips?",
+      "preteritum": "Anton blev arg, han knöt näven i fickan.",
+      "supinum": "Jag har knutit knuten för hårt, den går inte att knyta upp!"
+    }
+  },
+  {
+    "verb": "krypa",
+    "verb_group": "4b",
+    "translation": "to crawl",
+    "conjugations": {
+      "imperativ": "kryp",
+      "infinitiv": "krypa",
+      "presens": "kryper",
+      "preteritum": "kröp",
+      "supinum": "krupit"
+    },
+    "meningar": {
+      "imperativ": "Kryp under trädstammen som har fallit över vägen, om du inte kan gå runt den.",
+      "infinitiv": "Jag ser en insekt krypa runt där borta.",
+      "presens": "Innan små barn kan gå kryper de på golvet.",
+      "preteritum": "Såg du vad det var som kröp där borta på bordet?",
+      "supinum": "Han var så trött, han har redan krupit ner i sängen."
+    }
+  },
+  {
+    "verb": "skryta",
+    "verb_group": "4b",
+    "translation": "to brag",
+    "conjugations": {
+      "imperativ": "skryt",
+      "infinitiv": "skryta",
+      "presens": "skryter",
+      "preteritum": "skröt",
+      "supinum": "skrutit"
+    },
+    "meningar": {
+      "imperativ": "Skryt inte!",
+      "infinitiv": "Jag gillar inte att skryta.",
+      "presens": "Min kompis skryter alltid om hur mycket läxor han har!",
+      "preteritum": "Hon skröt hela dagen om hur hon hade slagits mot en björn.",
+      "supinum": "Har du någonsin skrutit om hur smart du är?"
+    }
+  },
+  {
+    "verb": "stryka",
+    "verb_group": "4b",
+    "translation": "to iron, to stroke",
+    "conjugations": {
+      "imperativ": "stryk",
+      "infinitiv": "stryka",
+      "presens": "stryker",
+      "preteritum": "strök",
+      "supinum": "strukit"
+    },
+    "meningar": {
+      "imperativ": "Stryk min skjorta, är du snäll.",
+      "infinitiv": "Kan du stryka min skjorta?",
+      "presens": "Titta, den där katten verkar gilla dig, så mycket som den stryker sig mot ditt ben.",
+      "preteritum": "Katten strök omkring i lägenheten.",
+      "supinum": "Har du strukit över texten som inte ska vara med i dokumentet?"
+    }
+  },
+  {
+    "verb": "smyga",
+    "verb_group": "4b",
+    "translation": "to sneak",
+    "conjugations": {
+      "imperativ": "smyg",
+      "infinitiv": "smyga",
+      "presens": "smyger",
+      "preteritum": "smög",
+      "supinum": "smugit"
+    },
+    "meningar": {
+      "imperativ": "Smyg inte omkring, folk kan tro att du har gjort något dumt!",
+      "infinitiv": "Ni måste smyga er försiktigt in i sovrummet, så ni inte väcker barnen.",
+      "presens": "Varför smyger du?",
+      "preteritum": "Katten smög sig fram till fågeln, men den flög i väg.",
+      "supinum": "Katten har smugit runt kvarteret i timmar."
+    }
+  },
+  {
+    "verb": "bära",
+    "verb_group": "4b",
+    "translation": "to carry",
+    "conjugations": {
+      "imperativ": "bär",
+      "infinitiv": "bära",
+      "presens": "bär",
+      "preteritum": "bar",
+      "supinum": "burit"
+    },
+    "meningar": {
+      "imperativ": "Bär inte ryggsäcken så där, du kommer få ont i ryggen!",
+      "infinitiv": "Vill du bära upp de tunga paketen åt mig?",
+      "presens": "Jag bär alltid på något jobbigt.",
+      "preteritum": "Varför bar du inte ner väskan som jag bad dig om?",
+      "supinum": "Han har redan burit in all ved i huset."
+    }
+  },
+  {
+    "verb": "skära",
+    "verb_group": "4b",
+    "translation": "to cut",
+    "conjugations": {
+      "imperativ": "skär",
+      "infinitiv": "skära",
+      "presens": "skär",
+      "preteritum": "skar",
+      "supinum": "skurit"
+    },
+    "meningar": {
+      "imperativ": "Skär dig inte i handen nu, snälla!",
+      "infinitiv": "Jag vill ha en brödkniv så att jag kan skära bröd.",
+      "presens": "Akta så att du inte skär dig, kniven är vass!",
+      "preteritum": "Jag skar bort den mögliga delen av osten, så nu kan du äta den.",
+      "supinum": "Jag har skurit bort den mögliga delen av osten, så nu kan du äta den."
+    }
+  },
+  {
+    "verb": "stjäla",
+    "verb_group": "4b",
+    "translation": "to steal",
+    "conjugations": {
+      "imperativ": "stjäl",
+      "infinitiv": "stjäla",
+      "presens": "stjäl",
+      "preteritum": "stal",
+      "supinum": "stulit"
+    },
+    "meningar": {
+      "imperativ": "Stjäl inte andras lycka!",
+      "infinitiv": "Det är fult att stjäla.",
+      "presens": "Om man stjäl hamnar man i fängelse.",
+      "preteritum": "Min syster stal en av mina klänningar för att gå på fest igår.",
+      "supinum": "Har hon stulit något från dig?"
+    }
+  },
+  {
+    "verb": "vara",
+    "verb_group": "5",
+    "translation": "to be",
+    "conjugations": {
+      "imperativ": "var",
+      "infinitiv": "vara",
+      "presens": "är",
+      "preteritum": "var",
+      "supinum": "varit"
+    },
+    "meningar": {
+      "imperativ": "Var inte så tråkig nu, du kan väl följa med?",
+      "infinitiv": "Det är viktigt att vara glad för det man har.",
+      "presens": "Varför är du ledsen nu?",
+      "preteritum": "Han var lärare när han arbetade, men han är pensionär nu.",
+      "supinum": "Nej, jag har inte varit i skolan på hela veckan."
+    }
+  },
+  {
+    "verb": "ha",
+    "verb_group": "5",
+    "translation": "to have",
+    "conjugations": {
+      "imperativ": "ha",
+      "infinitiv": "ha",
+      "presens": "har",
+      "preteritum": "hade",
+      "supinum": "haft"
+    },
+    "meningar": {
+      "imperativ": "Ha inte för roligt utan mig!",
+      "infinitiv": "Jag vill ha en chokladglass, tack.",
+      "presens": "Jag har inte tid att läsa alla dessa böcker.",
+      "preteritum": "Vilken tur du hade i går!",
+      "supinum": "Nu har hon en liten katt, det har hon aldrig haft."
+    }
+  },
+  {
+    "verb": "göra",
+    "verb_group": "5",
+    "translation": "to do",
+    "conjugations": {
+      "imperativ": "gör",
+      "infinitiv": "göra",
+      "presens": "gör",
+      "preteritum": "gjorde",
+      "supinum": "gjort"
+    },
+    "meningar": {
+      "imperativ": "Gör som jag, gå på bio!",
+      "infinitiv": "Vad ska du göra i morgon?",
+      "presens": "Jag gör alltid som min mamma gjorde.",
+      "preteritum": "I går gjorde jag ingenting.",
+      "supinum": "Vad har du gjort med håret?"
+    }
+  },
+  {
+    "verb": "komma",
+    "verb_group": "5",
+    "translation": "to come",
+    "conjugations": {
+      "imperativ": "kom",
+      "infinitiv": "komma",
+      "presens": "kommer",
+      "preteritum": "kom",
+      "supinum": "kommit"
+    },
+    "meningar": {
+      "imperativ": "Kom inte in, det är en enda röra på golvet!",
+      "infinitiv": "Säg åt honom att komma innan lunch om han kan.",
+      "presens": "Jaha, han kommer imorgon!",
+      "preteritum": "Vilken tid kom du fram till Malmö igår?",
+      "supinum": "Har din pappa kommit hem från sin resa ännu?"
+    }
+  },
+  {
+    "verb": "säga",
+    "verb_group": "5",
+    "translation": "to say",
+    "conjugations": {
+      "imperativ": "säg",
+      "infinitiv": "säga",
+      "presens": "säger",
+      "preteritum": "sa(de)",
+      "supinum": "sagt"
+    },
+    "meningar": {
+      "imperativ": "Säg inte åt mig vad jag ska göra!",
+      "infinitiv": "Jag visste inte vad jag skulle säga, så jag sade ingenting.",
+      "presens": "Vad säger du nu?!",
+      "preteritum": "Jag visste inte vad jag skulle säga, så jag sa(de) ingenting.",
+      "supinum": "Har du sagt till honom att du tänker stanna?"
+    }
+  },
+  {
+    "verb": "gråta",
+    "verb_group": "5",
+    "translation": "to cry",
+    "conjugations": {
+      "imperativ": "gråt",
+      "infinitiv": "gråta",
+      "presens": "gråter",
+      "preteritum": "grät",
+      "supinum": "gråtit"
+    },
+    "meningar": {
+      "imperativ": "Gråt inte, det blir snart bra igen!",
+      "infinitiv": "Det är viktigt att gråta ibland för att må bättre.",
+      "presens": "Jag gråter alltid till sorgliga filmer.",
+      "preteritum": "Jag grät i timmar idag.",
+      "supinum": "Mina ögon är helt röda, ser det ut som att jag har gråtit?"
+    }
+  },
+  {
+    "verb": "äta",
+    "verb_group": "5",
+    "translation": "to eat",
+    "conjugations": {
+      "imperativ": "ät",
+      "infinitiv": "äta",
+      "presens": "äter",
+      "preteritum": "åt",
+      "supinum": "ätit"
+    },
+    "meningar": {
+      "imperativ": "Ät så mycket du vill!",
+      "infinitiv": "Vill du äta lunch med mig idag?",
+      "presens": "Vi äter alltid middag varje dag klockan 7.",
+      "preteritum": "Du åt ingenting på hela dagen i går.",
+      "supinum": "Vad gott det smakar, det här har jag inte ätit förut."
+    }
+  },
+  {
+    "verb": "be",
+    "verb_group": "5",
+    "translation": "to ask (of sb), to pray",
+    "conjugations": {
+      "imperativ": "be",
+      "infinitiv": "be",
+      "presens": "ber",
+      "preteritum": "bad",
+      "supinum": "bett"
+    },
+    "meningar": {
+      "imperativ": "Be läraren om hjälp om du inte förstår.",
+      "infinitiv": "Kan du be läraren om mer tid att skriva provet?",
+      "presens": "Jag ber i moskén och han ber i kyrkan.",
+      "preteritum": "Jag bad till gud att tåget inte skulle vara försenat.",
+      "supinum": "Har jag bett dig om för mycket?"
+    }
+  },
+  {
+    "verb": "ge",
+    "verb_group": "5",
+    "translation": "to give",
+    "conjugations": {
+      "imperativ": "ge",
+      "infinitiv": "ge",
+      "presens": "ger",
+      "preteritum": "gav",
+      "supinum": "givit"
+    },
+    "meningar": {
+      "imperativ": "Ge aldrig upp!",
+      "infinitiv": "Jag kan inte ge dig någon dyr present.",
+      "presens": "Ger du mig ett glas vatten?",
+      "preteritum": "Jag gav honom en fin present i går.",
+      "supinum": "Han har nästan givit bort allt han äger."
+    }
+  },
+  {
+    "verb": "dö",
+    "verb_group": "5",
+    "translation": "to die",
+    "conjugations": {
+      "imperativ": "dö",
+      "infinitiv": "dö",
+      "presens": "dör",
+      "preteritum": "dog",
+      "supinum": "dött"
+    },
+    "meningar": {
+      "imperativ": "Dö inte, snälla, jag behöver dig vid liv!",
+      "infinitiv": "Är du rädd för att dö?",
+      "presens": "Omg, jag dör av skratt!",
+      "preteritum": "Jag kan inte ringa nu, batteriet på min mobil dog nyss.",
+      "supinum": "Jag hörde idag att en känd skådespelare har dött."
+    }
+  },
+  {
+    "verb": "få",
+    "verb_group": "5",
+    "translation": "to receive",
+    "conjugations": {
+      "imperativ": "få",
+      "infinitiv": "få",
+      "presens": "får",
+      "preteritum": "fick",
+      "supinum": "fått"
+    },
+    "meningar": {
+      "imperativ": "null",
+      "infinitiv": "Skulle jag kunna få en kaffe tack?",
+      "presens": "Vem får köra bil i Sverige?",
+      "preteritum": "Jag fyllde år i går och fick en fin present.",
+      "supinum": "Jag har aldrig fått en så fin present."
+    }
+  },
+  {
+    "verb": "gå",
+    "verb_group": "5",
+    "translation": "to walk, to go",
+    "conjugations": {
+      "imperativ": "gå",
+      "infinitiv": "gå",
+      "presens": "går",
+      "preteritum": "gick",
+      "supinum": "gått"
+    },
+    "meningar": {
+      "imperativ": "Gå hem, du ser alldeles för trött ut.",
+      "infinitiv": "Vart ska du gå?",
+      "presens": "Nu går jag, hej då!",
+      "preteritum": "Han gick inte till skolan i morse.",
+      "supinum": "Nej, nu har du gått för långt."
+    }
+  },
+  {
+    "verb": "le",
+    "verb_group": "5",
+    "translation": "to smile",
+    "conjugations": {
+      "imperativ": "le",
+      "infinitiv": "le",
+      "presens": "ler",
+      "preteritum": "log",
+      "supinum": "lett"
+    },
+    "meningar": {
+      "imperativ": "Le inte, det är inte roligt!",
+      "infinitiv": "Jag kunde inte sluta le.",
+      "presens": "När han ler ser man alla hans tänder.",
+      "preteritum": "'Hej' sa han och log mot mig.",
+      "supinum": "Jag har lett en stödgrupp sedan 20 år tillbaka."
+    }
+  },
+  {
+    "verb": "se",
+    "verb_group": "5",
+    "translation": "to see",
+    "conjugations": {
+      "imperativ": "se",
+      "infinitiv": "se",
+      "presens": "ser",
+      "preteritum": "såg",
+      "supinum": "sett"
+    },
+    "meningar": {
+      "imperativ": "Se dig för så du inte ramlar!",
+      "infinitiv": "Kan du se någonting från din plats där bak?",
+      "presens": "Det är så mörkt, så jag ser ingenting.",
+      "preteritum": "Jag såg faktiskt den filmen förra veckan.",
+      "supinum": "Har du sett filmen om Titanic?"
+    }
+  },
+  {
+    "verb": "stå",
+    "verb_group": "5",
+    "translation": "to stand",
+    "conjugations": {
+      "imperativ": "stå",
+      "infinitiv": "stå",
+      "presens": "står",
+      "preteritum": "stod",
+      "supinum": "stått"
+    },
+    "meningar": {
+      "imperativ": "Stå inte framför fönstret naken, grannarna kan ju se dig!",
+      "infinitiv": "Kan du stå kvar här en stund?",
+      "presens": "Du står i vägen. Kan du flytta dig?",
+      "preteritum": "Jag såg dig inte, var stod du?",
+      "supinum": "Jag har stått här jättelänge och väntat på dig. Varför ringde du inte?"
+    }
+  },
+  {
+    "verb": "ligga",
+    "verb_group": "5",
+    "translation": "to lay",
+    "conjugations": {
+      "imperativ": "ligg",
+      "infinitiv": "ligga",
+      "presens": "ligger",
+      "preteritum": "låg",
+      "supinum": "legat"
+    },
+    "meningar": {
+      "imperativ": "Ligg inte med smutsiga skor på sängen!",
+      "infinitiv": "Böckerna ska inte ligga på bordet, de ska stå i bokhyllan.",
+      "presens": "Titta på katten som ligger där borta.",
+      "preteritum": "Jag låg och läste länge i går kväll.",
+      "supinum": "Han har varit sjuk och legat till sängs en vecka."
+    }
+  },
+  {
+    "verb": "leva",
+    "verb_group": "5",
+    "translation": "to live",
+    "conjugations": {
+      "imperativ": "lev",
+      "infinitiv": "leva",
+      "presens": "lever",
+      "preteritum": "levde",
+      "supinum": "levt"
+    },
+    "meningar": {
+      "imperativ": "Lev, skratta, äLska!",
+      "infinitiv": "Jag tänker leva i minst 100 år till.",
+      "presens": "Jag lever med min fru och mina barn.",
+      "preteritum": "Min morfar levde i 100 år!",
+      "supinum": "Har du levt i Sverige länge?"
+    }
+  },
+  {
+    "verb": "veta",
+    "verb_group": "5",
+    "translation": "to know",
+    "conjugations": {
+      "imperativ": "vet",
+      "infinitiv": "veta",
+      "presens": "vet",
+      "preteritum": "visste",
+      "supinum": "vetat"
+    },
+    "meningar": {
+      "imperativ": null,
+      "infinitiv": "Hur ska jag kunna veta det?",
+      "presens": "Vet du hur Norges flagga ser ut?",
+      "preteritum": "Jag visste inte att marsvin var så gulliga.",
+      "supinum": "Om jag hade vetat att du skulle duscha också så hade jag inte väntat på dig!"
+    }
+  }
+]
